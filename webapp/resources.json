@@ -1,0 +1,143 @@
+{
+    "resources": [
+        {
+            "name": "util/Formatter-dbg-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "model/models-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "model/Destino.json"
+        },
+        {
+            "name": "model/CeCo.json"
+        },
+        {
+            "name": "model/Actividades.json"
+        },
+        {
+            "name": "manifest.json"
+        },
+        {
+            "name": "util/Formatter.js"
+        },
+        {
+            "name": "util/Formatter-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "model/models.js"
+        },
+        {
+            "name": "model/Totales.json"
+        },
+        {
+            "name": "lib/xlsx.js"
+        },
+        {
+            "name": "lib/jszip.js"
+        },
+        {
+            "name": "controller/View1.controller.js"
+        },
+        {
+            "name": "controller/Plantilla.controller.js"
+        },
+        {
+            "name": "controller/BaseController.js"
+        },
+        {
+            "name": "serviceBinding.js"
+        },
+        {
+            "name": "Component.js"
+        },
+        {
+            "name": "manifest-bundle.zip"
+        },
+        {
+            "name": "Component-preload.js",
+            "merged": true
+        },
+        {
+            "name": "serviceBinding-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "i18n/i18n.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "model/models-dbg-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "lib/xlsx-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "lib/jszip-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/View1-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/Plantilla-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/BaseController-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "Component-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "../../sap-ui-version.json"
+        },
+        {
+            "name": "neo-app.json"
+        },
+        {
+            "name": "di.code-validation.core_issues.json"
+        },
+        {
+            "name": "view/View1.view.xml"
+        },
+        {
+            "name": "view/Plantilla.view.xml"
+        },
+        {
+            "name": "localService/metadata.xml"
+        },
+        {
+            "name": "fragment/SociedadFi.fragment.xml"
+        },
+        {
+            "name": "fragment/SociedadCo.fragment.xml"
+        },
+        {
+            "name": "fragment/NewItemDialog.fragment.xml"
+        },
+        {
+            "name": "fragment/DestinoValueHelp.fragment.xml"
+        },
+        {
+            "name": "fragment/CompaValueHelp.fragment.xml"
+        },
+        {
+            "name": "fragment/CecoValueHelp.fragment.xml"
+        },
+        {
+            "name": "css/style.css"
+        },
+        {
+            "name": "index.html"
+        }
+    ]
+}

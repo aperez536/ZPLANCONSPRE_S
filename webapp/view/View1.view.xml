@@ -1,0 +1,3 @@
+<mvc:View controllerName="soc.ZPLANCONSPRE_SOCIEDADES.controller.View1" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m">
+	<App id="app"/>
+</mvc:View>

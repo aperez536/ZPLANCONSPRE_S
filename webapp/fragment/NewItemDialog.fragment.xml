@@ -1,0 +1,32 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core" xmlns:f="sap.ui.layout.form">
+	<Dialog title="Ingrese los datos del nuevo item">
+		<content>
+			<f:Form>
+				<f:layout>
+					<f:ResponsiveGridLayout/>
+				</f:layout>
+				<f:formContainers>
+					<f:FormContainer>
+						<f:formElements>
+							<f:FormElement label="Actividad">
+								<f:fields>
+									<ComboBox selectedKey="{viewModel>/newItem/actividad}" items="{viewModel>/actividades}" id="cmbActividadesNew">
+										<items>
+											<core:Item text="{viewModel>Lstar} - {viewModel>Ltext}" key="{viewModel>Lstar}"/>
+										</items>
+									</ComboBox>
+								</f:fields>
+							</f:FormElement>
+						</f:formElements>
+					</f:FormContainer>
+				</f:formContainers>
+			</f:Form>
+		</content>
+		<beginButton>
+			<Button text="Agregar" press="onConfirmNewItem"/>
+		</beginButton>
+		<endButton>
+			<Button text="Cancelar" press="onCloseNewItem"/>
+		</endButton>
+	</Dialog>
+</core:FragmentDefinition>

@@ -1,0 +1,6 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core">
+	<SelectDialog title="{i18n>CompaValueHelpTitle}" search=".onSearchCompa" confirm=".onValueHelpCompaClose" cancel=".onValueHelpCompaClose"
+		showClearButton="true" items="{ path: '/CompaSet' }">
+		<StandardListItem title="{Bukrs}" description="{Butxt}" type="Active"/>
+	</SelectDialog>
+</core:FragmentDefinition>

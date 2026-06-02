@@ -1,0 +1,627 @@
+{
+	"List": [{
+		"key": "CA030",
+		"text": "Identificar oportunidades de negocio y Estructurar negocio"
+	}, {
+		"key": "CA034",
+		"text": "Evaluar y Mejorar la Gesti?n con agentes y clientes"
+	}, {
+		"key": "CA035",
+		"text": "Gesti?n Responsabilidad Social Empresari"
+	}, {
+		"key": "CA037",
+		"text": "Gestionar la mejora continua del negocio"
+	}, {
+		"key": "CA040",
+		"text": "Liquidar y Facturar servicios"
+	}, {
+		"key": "CA049",
+		"text": "Ejecutar Plan de Mtto Preventivo y predictivo "
+	}, {
+		"key": "CA0491",
+		"text": "Mtto preventivo predeterminado"
+	}, {
+		"key": "CA0492",
+		"text": "Mtto preventivo Basado en Condici?n"
+	}, {
+		"key": "CA050",
+		"text": "Ejecutar programa de Mtto Correctivo"
+	}, {
+		"key": "CA0501",
+		"text": "Mtto correctivo Inmediato "
+	}, {
+		"key": "CA0502",
+		"text": "Mtto correctivo diferible"
+	}, {
+		"key": "CA055",
+		"text": "Evaluar y controlar el mantenimiento de la red"
+	}, {
+		"key": "CA059",
+		"text": "Realizar Gesti?n Regulatoria"
+	}, {
+		"key": "CA061",
+		"text": "Elaborar estudios de ajustes para coordinaci?n de protecciones"
+	}, {
+		"key": "CA062",
+		"text": "Realizar estudios de Planeamiento"
+	}, {
+		"key": "CA063",
+		"text": "Analizar la programaci?n y coordinar las intervenciones de los activos"
+	}, {
+		"key": "CA075",
+		"text": "Evaluar y mejorar el desempe?o operativo de los activos"
+	}, {
+		"key": "CA076",
+		"text": "Analizar perturbaciones del sistema"
+	}, {
+		"key": "CA077",
+		"text": "Evaluar la Operaci?n de la Red"
+	}, {
+		"key": "CA078",
+		"text": "Gestionar los Riesgos del Negocio"
+	}, {
+		"key": "CA079",
+		"text": "Elaborar Plan de Gesti?n de Riesgos Cr?ticos para el Negocio "
+	}, {
+		"key": "CA080",
+		"text": "Planear la construccion de proyectos"
+	}, {
+		"key": "CA081",
+		"text": "Dise?ar Proyectos de Infraestructura"
+	}, {
+		"key": "CA0811",
+		"text": "Dise?ar Proyect Infraestruct Especialist"
+	}, {
+		"key": "CA0812",
+		"text": "Dise?ar Proyect Infraestruct Analista"
+	}, {
+		"key": "CA083",
+		"text": "Planear la Gesti?n ambiental, social y predial  (O&M)"
+	}, {
+		"key": "CA084",
+		"text": "Gestionar ambiental y socialmente los proyectos"
+	}, {
+		"key": "CA0841",
+		"text": "Gest. amb y socialm proy - Especialista"
+	}, {
+		"key": "CA0842",
+		"text": "Gest. amb y socialm proy - Analista"
+	}, {
+		"key": "CA085",
+		"text": "Ejecutar la gesti?n Social y Ambiental "
+	}, {
+		"key": "CA086",
+		"text": "Gestionar predios y servidumbres de proyectos"
+	}, {
+		"key": "CA0861",
+		"text": "Constituir servid y adquirir predi-Espec"
+	}, {
+		"key": "CA0862",
+		"text": "Constituir servid y adquirir predi-Anali"
+	}, {
+		"key": "CA0863",
+		"text": "Constituir servid y adq predios-Asistent"
+	}, {
+		"key": "CA090",
+		"text": "Evaluar y controlar la gesti?n ambiental y social "
+	}, {
+		"key": "CA092",
+		"text": "Gerenciar Proyectos"
+	}, {
+		"key": "CA0922",
+		"text": "Gestionar Info Proyectos Analista"
+	}, {
+		"key": "CA097",
+		"text": "Entregar, liquidar y cerrar proyectos /Gestionar Reclamaciones"
+	}, {
+		"key": "CA099",
+		"text": "Incorporar mejores pr?cticas de aprovisi"
+	}, {
+		"key": "CA100",
+		"text": "Gestionar proveedores"
+	}, {
+		"key": "CA102",
+		"text": "Gestionar almacenes  e Inventarios"
+	}, {
+		"key": "CA104",
+		"text": "Evaluar los resultados de la Estrategia"
+	}, {
+		"key": "CA108",
+		"text": "Ejecutar plan de activos/Apoyo Proyectos"
+	}, {
+		"key": "CA116",
+		"text": "An?lizar el mercado"
+	}, {
+		"key": "CA123",
+		"text": "Reclutar y seleccionar personal"
+	}, {
+		"key": "CA124",
+		"text": "Manejar relaciones laborales individuales y colectivas "
+	}, {
+		"key": "CA124P",
+		"text": "Gestionar relaciones laborales - Proyect"
+	}, {
+		"key": "CA124P",
+		"text": "Gestionar relaciones laborales    PROY"
+	}, {
+		"key": "CA124T",
+		"text": "Gestionar relaciones laborales    TE"
+	}, {
+		"key": "CA125",
+		"text": "Gestionar Remuneraci?n y beneficios"
+	}, {
+		"key": "CA125T",
+		"text": "Gestionar Remuneraci?n y beneficios     TE"
+	}, {
+		"key": "CA126",
+		"text": "Evaluar la gesti?n del desempe?o"
+	}, {
+		"key": "CA126P",
+		"text": "Evaluar la gesti?n del desempe?o PI"
+	}, {
+		"key": "CA126P",
+		"text": "Evaluar la gesti?n del desempe?o PI"
+	}, {
+		"key": "CA126T",
+		"text": "Evaluar la gesti?n del desempe?o TE"
+	}, {
+		"key": "CA128",
+		"text": "Gestionar el bienestar"
+	}, {
+		"key": "CA128P",
+		"text": "Gestionar la salud integral  PROY"
+	}, {
+		"key": "CA128P",
+		"text": "Gestionar la salud integral  PROY"
+	}, {
+		"key": "CA128T",
+		"text": "Gestionar la salud integral  TE"
+	}, {
+		"key": "CA129",
+		"text": "Gestionar el Aprendizaje y el conocimiento "
+	}, {
+		"key": "CA129T",
+		"text": "Gestionar el Aprendizaje y el conoc.TE"
+	}, {
+		"key": "CA130",
+		"text": "Gestionar la estrategia del talento humano"
+	}, {
+		"key": "CA130P",
+		"text": "Gest. la estrategia del talento humanoPI"
+	}, {
+		"key": "CA130P",
+		"text": "Gestionar la estrategia del talento humano PROY"
+	}, {
+		"key": "CA130T",
+		"text": "Gestionar la estrategia del talento humano     TE"
+	}, {
+		"key": "CA131",
+		"text": "Dise?ar la organizaci?n"
+	}, {
+		"key": "CA131P",
+		"text": "Disenar la organizacionPI"
+	}, {
+		"key": "CA131P",
+		"text": "Dise?ar la organizaci?n     PROY"
+	}, {
+		"key": "CA141",
+		"text": "Conectividad a Red y Servicios B?sicos"
+	}, {
+		"key": "CA142",
+		"text": "Estaciones de Trabajo"
+	}, {
+		"key": "CA143",
+		"text": " SAP"
+	}, {
+		"key": "CA143P",
+		"text": "SAP - PI"
+	}, {
+		"key": "CA145",
+		"text": "Brindar Servicios de Biblioteca"
+	}, {
+		"key": "CA150",
+		"text": "Gestionar recursos financieros y administrar la deuda"
+	}, {
+		"key": "CA153",
+		"text": "Realizar Gestion Tributaria"
+	}, {
+		"key": "CA154",
+		"text": "Gestionar y Financiar riesgos"
+	}, {
+		"key": "CA155",
+		"text": "Gestionar la Contabilidad"
+	}, {
+		"key": "CA156",
+		"text": "Gestionar el Modelo de Costos"
+	}, {
+		"key": "CA159",
+		"text": "Gestionar control externo"
+	}, {
+		"key": "CA160",
+		"text": "Evaluar y medir el control interno"
+	}, {
+		"key": "CA165",
+		"text": "Gestionar Contratos"
+	}, {
+		"key": "CA165T",
+		"text": "Gestionar Contratos TE"
+	}, {
+		"key": "CA166",
+		"text": "Analizar asuntos legales y representar a la Empresa en los procesos judiciales y tr?mites administrativos."
+	}, {
+		"key": "CA174",
+		"text": "Operar equipos de subestaciones"
+	}, {
+		"key": "CA195",
+		"text": "Evaluar la gesti?n ambiental, social  y predial (O&M)"
+	}, {
+		"key": "CA197",
+		"text": "Supervisar el funcionamiento de la red"
+	}, {
+		"key": "CA260",
+		"text": "Realizar An?lisis preoperativos"
+	}, {
+		"key": "CA261",
+		"text": "Incorporar nuevos activos al SIN  (Recepcionar proyectos )"
+	}, {
+		"key": "CA262",
+		"text": "Administrar la documentaci?n"
+	}, {
+		"key": "CA262T",
+		"text": "Prestar Servicios de Administraci?n Documental TE"
+	}, {
+		"key": "CA264",
+		"text": "Dise?ar y planear la evaluaci?n del control interno "
+	}, {
+		"key": "CA266",
+		"text": "Estructurar insumos para ofertas de la matriz"
+	}, {
+		"key": "CA266P",
+		"text": "Estructurar insumos ofertas ISA - PI"
+	}, {
+		"key": "CA266P",
+		"text": "Estructurar insumos para ofertas de la matriz PI"
+	}, {
+		"key": "CA266T",
+		"text": "Estructurar insumos para ofertas de la matriz TE"
+	}, {
+		"key": "CA269",
+		"text": "Definir  la estrategia de la empresa"
+	}, {
+		"key": "CA274",
+		"text": "Ejecutar Supervisi?n y maniobras"
+	}, {
+		"key": "CA275",
+		"text": "Gestionar  Ventas y Relacionam. Clientes"
+	}, {
+		"key": "CA277",
+		"text": "Ejecutar la Gesti?n Ambiental, social y predial (O&M)"
+	}, {
+		"key": "CA2771",
+		"text": "Ejecuci?n de la gesti?n ambiental? en operaci?n y mantenimiento "
+	}, {
+		"key": "CA2772",
+		"text": "Ejecuci?n de la gesti?n social en operaci?n y mantenimiento "
+	}, {
+		"key": "CA2773",
+		"text": "Ejecuci?n de la gesti?n predial en mantenimiento"
+	}, {
+		"key": "CA2775",
+		"text": "Atenci?nRequerimientosAutori.Ambientales"
+	}, {
+		"key": "CA2776",
+		"text": "Activ.RelacionConEntidTerritYComunidades"
+	}, {
+		"key": "CA2777",
+		"text": "Atenci?n a Requerimientos de Terceros"
+	}, {
+		"key": "CA278",
+		"text": "Construir proyectos de Infraestuctura"
+	}, {
+		"key": "CA2781",
+		"text": "Construir proyectos de Infraestuc-Gestor"
+	}, {
+		"key": "CA2782",
+		"text": "Construir proyectos de Infraest-Analista"
+	}, {
+		"key": "CA2783",
+		"text": "Construir proyectos de Infraes-Asistente"
+	}, {
+		"key": "CA2784",
+		"text": "Gestionar HSQ Proyectos Analista"
+	}, {
+		"key": "CA2785",
+		"text": "Construir proyectos de Infraestuctura"
+	}, {
+		"key": "CA279",
+		"text": "Gestionar Compras"
+	}, {
+		"key": "CA279T",
+		"text": "Gestionar Compras- TE"
+	}, {
+		"key": "CA282",
+		"text": "Prestar servicios Generales"
+	}, {
+		"key": "CA282T",
+		"text": "Prestar Servicios Log?sticos Generales - TE"
+	}, {
+		"key": "CA2831",
+		"text": "Funciones secretariales en CTE"
+	}, {
+		"key": "CA2832",
+		"text": "Vi?ticos en CTE"
+	}, {
+		"key": "CA2833",
+		"text": "Soporte a los recursos de salas inte CTE"
+	}, {
+		"key": "CA285",
+		"text": "Gestionar las comunicaciones, reputaci?n y posicionamiento."
+	}, {
+		"key": "CA286",
+		"text": "Planear las Finanzas de ISA y realizar An?lisis Financiero "
+	}, {
+		"key": "CA286P",
+		"text": "Realizar Planeaci?n y An?lisis Fciero PI"
+	}, {
+		"key": "CA286P",
+		"text": "Planear las Finanzas de ISA y realizar An?lisis Financiero PI"
+	}, {
+		"key": "CA286T",
+		"text": "Planear las Finanzas de ISA y realizar An?lisis Financiero del Grupo TE"
+	}, {
+		"key": "CA287",
+		"text": "Administrar los Recursos Financieros"
+	}, {
+		"key": "CA287T",
+		"text": "Administrar los Recursos Financieros TE"
+	}, {
+		"key": "CA288",
+		"text": "Asesorar la Asamblea, Junta y la Gesti?n corporativa societaria"
+	}, {
+		"key": "CA293",
+		"text": "Realizar gesti?n Jur?dica y Contractual"
+	}, {
+		"key": "CA295",
+		"text": "Planear el mantenimiento de la red"
+	}, {
+		"key": "CA301",
+		"text": "Gestionar el desarrollo proyectos de infraestrutura"
+	}, {
+		"key": "CA303",
+		"text": " Sistemas de Informaci?n Corporativo"
+	}, {
+		"key": "CA304",
+		"text": " Sistemas de informaci?n Especializados"
+	}, {
+		"key": "CA305",
+		"text": " 73000 Atenci?n a usuarios"
+	}, {
+		"key": "CA306",
+		"text": " Hosting (alojamiento en servidor)"
+	}, {
+		"key": "CA307",
+		"text": " Collocation (espacio f?sico centro c?mp)"
+	}, {
+		"key": "CA0341",
+		"text": "Gest. La Mejora Contin.Y la Opt.Serv.CSC"
+	}, {
+		"key": "CA0401",
+		"text": "Gestio. la relaci?n con los clientes CSC"
+	}, {
+		"key": "CA0491",
+		"text": "Mtto Preventivo Predeterminado"
+	}, {
+		"key": "CA049T",
+		"text": "Ejecutar  Mtto Prevent y predictivo-Terc"
+	}, {
+		"key": "CA0841",
+		"text": "Gest. amb y socialm proy - Especialista"
+	}, {
+		"key": "CA0842",
+		"text": "Gest. amb y socialm proy - Analista"
+	}, {
+		"key": "CA0861",
+		"text": "Constituir servid y adquirir predi-Espec"
+	}, {
+		"key": "CA0862",
+		"text": "Constituir servid y adquirir predi-Anali"
+	}, {
+		"key": "CA097",
+		"text": "Cerrar Proyectos Director"
+	}, {
+		"key": "CA0971",
+		"text": "Cerrar Proyectos Gestor"
+	}, {
+		"key": "CA0972",
+		"text": "Cerrar Proyectos Analista"
+	}, {
+		"key": "CA0973",
+		"text": "Cerrar Proyectos Asistente"
+	}, {
+		"key": "CA109",
+		"text": "Planear la renovaci?n de los activos"
+	}, {
+		"key": "CA110",
+		"text": "Evaluar la Renovaci?n de los Activos"
+	}, {
+		"key": "CA111",
+		"text": "Realizar disposici?n final de losActivos"
+	}, {
+		"key": "CA1231",
+		"text": "Reclutar el Talento"
+	}, {
+		"key": "CA1232",
+		"text": "Gestionar la Vinculaci?n"
+	}, {
+		"key": "CA1241",
+		"text": "Gestionar la Desvinculaci?n"
+	}, {
+		"key": "CA1242",
+		"text": "Gestionar la Movilidad de los empleados"
+	}, {
+		"key": "CA1251",
+		"text": "Ejecutar novedades de personal y organiz"
+	}, {
+		"key": "CA1252",
+		"text": "Gestionar  y administrar los beneficios"
+	}, {
+		"key": "CA1253",
+		"text": "Realizar proceso de n?mina"
+	}, {
+		"key": "CA1291",
+		"text": "Gestionar la Inducci?n"
+	}, {
+		"key": "CA1292",
+		"text": "Coordinar log?stica de aprendizaje"
+	}, {
+		"key": "CA1351",
+		"text": "Coordinar log?stica de Bienestar"
+	}, {
+		"key": "CA144",
+		"text": "Construir y adaptar soluc.inform-No SAP"
+	}, {
+		"key": "CA170",
+		"text": "Planear los Servicios Generales"
+	}, {
+		"key": "CA171",
+		"text": "Evaluar y Mejorar los  Servic. Generales"
+	}, {
+		"key": "CA172",
+		"text": "Prestar Soporte Adtivo de Serv.Generales"
+	}, {
+		"key": "CA175",
+		"text": "Planear los Servicios TO"
+	}, {
+		"key": "CA176",
+		"text": "Evaluar y Mejorar los  Servicios TO"
+	}, {
+		"key": "CA177",
+		"text": "Prestar Soporte Administrativo Servi.TO"
+	}, {
+		"key": "CA261",
+		"text": "Incorpor.nuevos activos al SIN(Recep.Pro"
+	}, {
+		"key": "CA2621",
+		"text": "Suministrar servicio de Mensajer?a"
+	}, {
+		"key": "CA2622",
+		"text": "Suminis. Servicio de Gesti?n Documental"
+	}, {
+		"key": "CA263T",
+		"text": "Definir lineam.Gestion corpor.Grupos iTE"
+	}, {
+		"key": "CA2781",
+		"text": "Construir proyectos de Infraestuc-Gestor"
+	}, {
+		"key": "CA2782",
+		"text": "Construir proyectos de Infraest-Analista"
+	}, {
+		"key": "CA2783",
+		"text": "Construir proyectos de Infraes-Asistente"
+	}, {
+		"key": "CA2785",
+		"text": "Construir proyectos de Infraestuctura"
+	}, {
+		"key": "CA2820",
+		"text": "Suministrar servicio de Aseo y Cafeter?a"
+	}, {
+		"key": "CA2821",
+		"text": "Suministrar servicio de Alimentaci?n"
+	}, {
+		"key": "CA2822",
+		"text": "Suministrar Servicio de Gesti?n deViajes"
+	}, {
+		"key": "CA2823",
+		"text": "Suministrar servicio de Papeler?a"
+	}, {
+		"key": "CA2824",
+		"text": "Suministrar servicio de Salas internas y"
+	}, {
+		"key": "CA2825",
+		"text": "Suministrar Servicio de Transporte"
+	}, {
+		"key": "CA2826",
+		"text": "Suministrar servicio de Mantenimiento"
+	}, {
+		"key": "CA2827",
+		"text": "Suministrar Servicio de Facturaci?n"
+	}, {
+		"key": "CA2828",
+		"text": "Suminis. Servicio de Gest.de MueblYEnser"
+	}, {
+		"key": "CA2829",
+		"text": "Suminis. Servicio de Administ.de Inmuebl"
+	}, {
+		"key": "CA284",
+		"text": "Asegurar soluciones informaticas"
+	}, {
+		"key": "CA308",
+		"text": "Gestionar la Tecnolog?a Corporativa"
+	}, {
+		"key": "CA309",
+		"text": "Alinear, planear y organizar la tecnolog?a informaci?n"
+	}, {
+		"key": "CA310",
+		"text": "Construir, adquirir e implementar la tecnolog?a informaci?n"
+	}, {
+		"key": "CA311",
+		"text": "Entregar servicio y dar soporte a la tecnolog?a informaci?n"
+	}, {
+		"key": "CA312",
+		"text": "Monitorear, Evaluar y Valorar"
+	}, {
+		"key": "CA313",
+		"text": "SAP"
+	}, {
+		"key": "CA314",
+		"text": "Redes"
+	}, {
+		"key": "CA315",
+		"text": "Estaciones deTrabajo"
+	}, {
+		"key": "CA316",
+		"text": "Hosting"
+	}, {
+		"key": "CA317",
+		"text": "Collocation"
+	}, {
+		"key": "CA318",
+		"text": "Aplicaciones"
+	}, {
+		"key": "CA3101",
+		"text": "Construir SAP"
+	}, {
+		"key": "CA3102",
+		"text": "Construir Redes"
+	}, {
+		"key": "CA3103",
+		"text": "Construir Estaciones deTrabajo"
+	}, {
+		"key": "CA3104",
+		"text": "Construir Hosting"
+	}, {
+		"key": "CA3105",
+		"text": "Construir Collocation"
+	}, {
+		"key": "CA3106",
+		"text": "Construir Aplicaciones"
+	}, {
+		"key": "CA3113",
+		"text": "Entregar Servicio SAP"
+	}, {
+		"key": "CA3114",
+		"text": "Entregar Servicio Redes"
+	}, {
+		"key": "CA3115",
+		"text": "Entregar Servicio Estaciones deTrabajo"
+	}, {
+		"key": "CA3116",
+		"text": "Entregar Servicio Hosting"
+	}, {
+		"key": "CA3117",
+		"text": "Entregar Servicio Collocation"
+	}, {
+		"key": "CA3118",
+		"text": "Entregar Servicio Aplicaciones"
+	}]
+}

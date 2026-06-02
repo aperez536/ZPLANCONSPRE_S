@@ -1,0 +1,6 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core">
+	<SelectDialog title="{i18n>DestinoValueHelpTitle}" search=".onSearchDestino" confirm=".onValueHelpDestinoClose"
+		cancel=".onValueHelpDestinoClose" showClearButton="true" items="{ path: 'viewModel>/destino' }">
+		<StandardListItem title="{viewModel>Ltext}" description="{viewModel>Desti}" type="Active"/>
+	</SelectDialog>
+</core:FragmentDefinition>

@@ -1,0 +1,6 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core">
+	<SelectDialog title="{i18n>CecoValueHelpTitle}" search=".onSearchCeco" confirm=".onValueHelpCecoClose" cancel=".onValueHelpCecoClose"
+		showClearButton="true" items="{CecoLocalModel>/}">
+		<StandardListItem title="{CecoLocalModel>Kostl}" description="{CecoLocalModel>Ltext}" type="Active"/>
+	</SelectDialog>
+</core:FragmentDefinition>

@@ -1,0 +1,6 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core">
+	<SelectDialog title="{i18n>SociedadCo}" search=".onSearchSociedadCo" confirm=".onValueHelpSociedadCo" cancel=".onValueHelpSociedadCo"
+		showClearButton="false" items="{ path: '/SociedadCoSet' }">
+		<StandardListItem title="{Kokrs}" description="{Text}" type="Active"/>
+	</SelectDialog>
+</core:FragmentDefinition>

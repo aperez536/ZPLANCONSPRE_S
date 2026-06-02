@@ -1,0 +1,513 @@
+<mvc:View controllerName="soc.ZPLANCONSPRE_SOCIEDADES.controller.Plantilla" xmlns:mvc="sap.ui.core.mvc" xmlns:m="sap.m" xmlns="sap.ui.table"
+	xmlns:c="sap.ui.core" xmlns:fb="sap.ui.comp.filterbar" xmlns:u="sap.ui.unified" displayBlock="true">
+	<m:Page id="page" title="{i18n>title}" busy="{viewModel>/busy}" busyIndicatorDelay="0">
+		<m:content>
+			<fb:FilterBar showClearOnFB="false" showGoOnFB="true" showRestoreButton="false" showClearButton="false" showFilterConfiguration="false"
+				search="onGo">
+				<fb:filterGroupItems>
+					<fb:FilterGroupItem groupName="__$INTERNAL$" name="F" label="Sociedad Co" partOfCurrentVariant="true" visibleInFilterBar="true">
+						<fb:control>
+							<m:Input id="inpSociedadCo" showValueHelp="true" valueHelpRequest=".onSociedadCoVH" value="{viewModel>/SociedadCo}"/>
+						</fb:control>
+					</fb:FilterGroupItem>
+					<fb:FilterGroupItem groupName="__$INTERNAL$" name="E" label="Sociedad FI" partOfCurrentVariant="true" visibleInFilterBar="true">
+						<fb:control>
+							<m:Input id="inpSociedadFi" showValueHelp="true" valueHelpRequest=".onSociedadFiVH" value="{viewModel>/SociedadFi}"/>
+						</fb:control>
+					</fb:FilterGroupItem>
+					<fb:FilterGroupItem groupName="__$INTERNAL$" name="A" label="CeCo" partOfCurrentVariant="true" visibleInFilterBar="true">
+						<fb:control>
+							<m:Input id="inpCeco" showValueHelp="true" valueHelpRequest=".onCecoVH" value="{viewModel>/Ceco}"/>
+							<!--<m:ComboBox id="cmbCeco" selectedKey="{viewModel>/Ceco}" items="{CecoModel>/List}" showSecondaryValues="true">
+								<c:ListItem key="{CecoModel>key}" text="{CecoModel>text}" additionalText="{CecoModel>key}"/>
+							</m:ComboBox>-->
+						</fb:control>
+					</fb:FilterGroupItem>
+					<!--<fb:FilterGroupItem groupName="__$INTERNAL$" name="B" label="Compañia" partOfCurrentVariant="true" visibleInFilterBar="true">-->
+					<!--	<fb:control>-->
+					<!--		<m:Input id="inpCompa" showValueHelp="true" valueHelpRequest=".onCompaVH" value="{viewModel>/Compa}"/>-->
+					<!--	</fb:control>-->
+					<!--</fb:FilterGroupItem>-->
+					<fb:FilterGroupItem groupName="__$INTERNAL$" name="C" label="Inicio periodo vigencia" partOfCurrentVariant="true" visibleInFilterBar="true">
+						<fb:control>
+							<m:DatePicker id="dpIper" displayFormat="{i18n>configFormatMonthPicker}" dateValue="{viewModel>/Iper}"/>
+						</fb:control>
+					</fb:FilterGroupItem>
+					<fb:FilterGroupItem groupName="__$INTERNAL$" name="D" label="Fin periodo vigencia" partOfCurrentVariant="true" visibleInFilterBar="true">
+						<fb:control>
+							<m:DatePicker id="dpFper" displayFormat="{i18n>configFormatMonthPicker}" dateValue="{viewModel>/Fper}"/>
+						</fb:control>
+					</fb:FilterGroupItem>
+				</fb:filterGroupItems>
+			</fb:FilterBar>
+			<m:IconTabBar class="sapUiResponsiveContentPadding">
+				<m:items>
+					<m:IconTabFilter showAll="true" text="Plantilla" key="All">
+						<!--<m:Panel height="100%">-->
+						<Table rows="{viewModel>/items}" selectionMode="None" alternateRowColors="true" ariaLabelledBy="title" visibleRowCountMode="Interactive"
+							filter="onFilterTable" rowActionCount="2" fixedColumnCount="7">
+							<extension>
+								<!--<m:OverflowToolbar style="Clear">
+									<m:content>
+										<m:ToolbarSpacer id="spacer0"/>
+										<m:Button icon="sap-icon://add" tooltip="Agregar línea" press="onAddItem" visible="{= ${viewModel>/items}.length > 0 }"/>
+									</m:content>
+								</m:OverflowToolbar>-->
+							</extension>
+							<columns>
+								<Column width="8rem">
+									<m:Label text="CeCo"/>
+									<template>
+										<m:Input value="{viewModel>Ceco}" enabled="false"/>
+									</template>
+								</Column>
+								<Column width="8rem">
+									<m:Label text="Nombre CeCo"/>
+									<template>
+										<m:Input value="{viewModel>CecoName}" enabled="false"/>
+									</template>
+								</Column>
+								<Column width="8rem" filterProperty="Actividad" defaultFilterOperator="StartsWith">
+									<m:Label text="Actividad"/>
+									<template>
+										<m:Input value="{viewModel>Actividad}" enabled="false"/>
+									</template>
+								</Column>
+								<Column width="8rem">
+									<m:Label text="Denominacion Actividad"/>
+									<template>
+										<m:Input value="{viewModel>ActividadName}" enabled="false"/>
+									</template>
+								</Column>
+								<Column width="8rem">
+									<m:Label text="Tipo Receptor"/>
+									<template>
+										<!--<m:Input value="{viewModel>TipoRecep}" enabled="false"/>-->
+										<m:Select id="TipoRecep" selectedKey="{viewModel>TipoRecepKey}" change="onChangeRecep" enabled="{viewModel>/editable}">
+											<c:Item text="" key="00"/>
+											<c:Item text="ORDEN" key="01"/>
+											<c:Item text="PROCESO EMPRESARIAL" key="02"/>
+											<c:Item text="CENTRO DE COSTO" key="03"/>
+										</m:Select>
+									</template>
+								</Column>
+								<Column width="8rem" filterProperty="Destino" defaultFilterOperator="Contains">
+									<m:Label text="Destino"/>
+									<template>
+										<!--<m:ComboBox selectedKey="{viewModel>Destino}" items="{viewModel>/destino}" showSecondaryValues="true">
+											<c:ListItem key="{viewModel>Desti}" text="{viewModel>Ltext}" additionalText="{viewModel>Desti}"/>
+										</m:ComboBox>-->
+										<m:Input id="Destino" value="{viewModel>Destino}" showValueHelp="true" valueHelpOnly="true" valueHelpRequest="onDestinoVH"
+											enabled="{viewModel>/editable}"/>
+									</template>
+								</Column>
+								<Column width="8rem">
+									<m:Label text="Denominacion Destino"/>
+									<template>
+										<m:Input id="inputDenomDest" value="{viewModel>DestinoVs}" enabled="false"/>
+									</template>
+								</Column>
+								<!--<Column width="14.5rem">
+									<m:Label text="Denom. Destino"/>
+									<template>
+										<m:ComboBox selectedKey="{viewModel>Destino}" items="{DestinoModel>/List}" editable="false" width="100%">
+											<c:ListItem key="{DestinoModel>key}" text="{DestinoModel>text}"/>
+										</m:ComboBox>
+									</template>
+								</Column>
+								<Column width="14.5rem">
+									<m:Label text="Tipo Receptor"/>
+									<template>
+										<m:ComboBox selectedKey="{viewModel>Destino}" items="{DestinoModel>/List}" editable="false" width="100%">
+											<c:ListItem key="{DestinoModel>key}" text="{DestinoModel>receptor}"/>
+										</m:ComboBox>
+									</template>
+								</Column>-->
+								<Column width="4.5rem" visible="{viewModel>/mes1Visible}">
+									<m:Label text="1"/>
+									<template>
+										<m:Input id="inp1"
+											value="{path: 'viewModel>mes1', type:'sap.ui.model.type.Float', formatOptions: { maxFractionDigits: 2, decimalSeparator: '.', groupingSeparator: ',' }}"
+											change="onChangeInput" liveChange="onLiveChange" enabled="{viewModel>/editable}"/>
+									</template>
+								</Column>
+								<Column width="4.5rem" visible="{viewModel>/mes2Visible}">
+									<m:Label text="2"/>
+									<template>
+										<m:Input id="inp2"
+											value="{path: 'viewModel>mes2', type:'sap.ui.model.type.Float', formatOptions: { maxFractionDigits: 2, decimalSeparator: '.', groupingSeparator: ',' }}"
+											change="onChangeInput" liveChange="onLiveChange" enabled="{viewModel>/editable}"/>
+									</template>
+								</Column>
+								<Column width="4.5rem" visible="{viewModel>/mes3Visible}">
+									<m:Label text="3"/>
+									<template>
+										<m:Input id="inp3"
+											value="{path: 'viewModel>mes3', type:'sap.ui.model.type.Float', formatOptions: { maxFractionDigits: 2, decimalSeparator: '.', groupingSeparator: ',' }}"
+											change="onChangeInput" liveChange="onLiveChange" enabled="{viewModel>/editable}"/>
+									</template>
+								</Column>
+								<Column width="4.5rem" visible="{viewModel>/mes4Visible}">
+									<m:Label text="4"/>
+									<template>
+										<m:Input id="inp4"
+											value="{path: 'viewModel>mes4', type:'sap.ui.model.type.Float', formatOptions: { maxFractionDigits: 2, decimalSeparator: '.', groupingSeparator: ',' }}"
+											change="onChangeInput" liveChange="onLiveChange" enabled="{viewModel>/editable}"/>
+									</template>
+								</Column>
+								<Column width="4.5rem" visible="{viewModel>/mes5Visible}">
+									<m:Label text="5"/>
+									<template>
+										<m:Input id="inp5"
+											value="{path: 'viewModel>mes5', type:'sap.ui.model.type.Float', formatOptions: { maxFractionDigits: 2, decimalSeparator: '.', groupingSeparator: ',' }}"
+											change="onChangeInput" liveChange="onLiveChange" enabled="{viewModel>/editable}"/>
+									</template>
+								</Column>
+								<Column width="4.5rem" visible="{viewModel>/mes6Visible}">
+									<m:Label text="6"/>
+									<template>
+										<m:Input id="inp6"
+											value="{path: 'viewModel>mes6', type:'sap.ui.model.type.Float', formatOptions: { maxFractionDigits: 2, decimalSeparator: '.', groupingSeparator: ',' }}"
+											change="onChangeInput" liveChange="onLiveChange" enabled="{viewModel>/editable}"/>
+									</template>
+								</Column>
+								<Column width="4.5rem" visible="{viewModel>/mes7Visible}">
+									<m:Label text="7"/>
+									<template>
+										<m:Input id="inp7"
+											value="{path: 'viewModel>mes7', type:'sap.ui.model.type.Float', formatOptions: { maxFractionDigits: 2, decimalSeparator: '.', groupingSeparator: ',' }}"
+											change="onChangeInput" liveChange="onLiveChange" enabled="{viewModel>/editable}"/>
+									</template>
+								</Column>
+								<Column width="4.5rem" visible="{viewModel>/mes8Visible}">
+									<m:Label text="8"/>
+									<template>
+										<m:Input id="inp8"
+											value="{path: 'viewModel>mes8', type:'sap.ui.model.type.Float', formatOptions: { maxFractionDigits: 2, decimalSeparator: '.', groupingSeparator: ',' }}"
+											change="onChangeInput" liveChange="onLiveChange" enabled="{viewModel>/editable}"/>
+									</template>
+								</Column>
+								<Column width="4.5rem" visible="{viewModel>/mes9Visible}">
+									<m:Label text="9"/>
+									<template>
+										<m:Input id="inp9"
+											value="{path: 'viewModel>mes9', type:'sap.ui.model.type.Float', formatOptions: { maxFractionDigits: 2, decimalSeparator: '.', groupingSeparator: ',' }}"
+											change="onChangeInput" liveChange="onLiveChange" enabled="{viewModel>/editable}"/>
+									</template>
+								</Column>
+								<Column width="4.5rem" visible="{viewModel>/mes10Visible}">
+									<m:Label text="10"/>
+									<template>
+										<m:Input id="inp10"
+											value="{path: 'viewModel>mes10', type:'sap.ui.model.type.Float', formatOptions: { maxFractionDigits: 2, decimalSeparator: '.', groupingSeparator: ',' }}"
+											change="onChangeInput" liveChange="onLiveChange" enabled="{viewModel>/editable}"/>
+									</template>
+								</Column>
+								<Column width="4.5rem" visible="{viewModel>/mes11Visible}">
+									<m:Label text="11"/>
+									<template>
+										<m:Input id="inp11"
+											value="{path: 'viewModel>mes11', type:'sap.ui.model.type.Float', formatOptions: { maxFractionDigits: 2, decimalSeparator: '.', groupingSeparator: ',' }}"
+											change="onChangeInput" liveChange="onLiveChange" enabled="{viewModel>/editable}"/>
+									</template>
+								</Column>
+								<Column width="4.5rem" visible="{viewModel>/mes12Visible}">
+									<m:Label text="12"/>
+									<template>
+										<m:Input id="inp12"
+											value="{path: 'viewModel>mes12', type:'sap.ui.model.type.Float', formatOptions: { maxFractionDigits: 2, decimalSeparator: '.', groupingSeparator: ',' }}"
+											change="onChangeInput" liveChange="onLiveChange" enabled="{viewModel>/editable}"/>
+									</template>
+								</Column>
+								<Column width="4.5rem">
+									<m:Label text="Total general"/>
+									<template>
+										<m:Input
+											value="{path: 'viewModel>total', type:'sap.ui.model.type.Float', formatOptions: { maxFractionDigits: 2, decimalSeparator: '.', groupingSeparator: ',' }}"
+											editable="false"/>
+									</template>
+								</Column>
+								<Column width="4.5rem">
+									<m:Label text="Promedio"/>
+									<template>
+										<m:Input
+											value="{path: 'viewModel>promedio', type:'sap.ui.model.type.Float', formatOptions: { maxFractionDigits: 2, decimalSeparator: '.', groupingSeparator: ',' }}"
+											editable="false"/>
+									</template>
+								</Column>
+							</columns>
+							<rowActionTemplate>
+								<RowAction>
+									<items>
+										<RowActionItem type="Custom" icon="sap-icon://add" press="onAddItem"/>
+										<RowActionItem type="Delete" press="onDeleteItem"/>
+									</items>
+								</RowAction>
+							</rowActionTemplate>
+						</Table>
+						<!--</m:Panel>-->
+					</m:IconTabFilter>
+					<m:IconTabSeparator/>
+					<m:IconTabFilter icon="sap-icon://begin" iconColor="{viewModel>/iconColorTab}" text="Estado" key="Ok">
+						<Table rows="{TotalesModel>/List}" selectionMode="None" alternateRowColors="true" ariaLabelledBy="title" minAutoRowCount="5"
+							visibleRowCountMode="Interactive" fixedColumnCount="1">
+							<columns>
+								<Column width="16rem">
+									<m:Label text="Denominación"/>
+									<template>
+										<m:Input value="{TotalesModel>Title}" editable="false"/>
+									</template>
+								</Column>
+								<Column width="6.5rem">
+									<m:Label text="1"/>
+									<template>
+										<!--<m:Input value="{path: 'TotalesModel>mes1', type:'sap.ui.model.type.Float', formatOptions: { maxFractionDigits: 2 }}" enabled="false"
+											valueState="{ path: 'TotalesModel>mes1VS', formatter: '.Formatter.formatValueState' }" visible="{= ${TotalesModel>esPorcentaje} === false }"/>-->
+										<m:Input value="{parts: ['TotalesModel>mes1', 'TotalesModel>esPorcentaje'], formatter: '.Formatter.formatPercent' }" enabled="false"
+											valueState="{ path: 'TotalesModel>mes1VS', formatter: '.Formatter.formatValueState' }"/>
+									</template>
+								</Column>
+								<Column width="6.5rem">
+									<m:Label text="2"/>
+									<template>
+										<m:Input value="{parts: ['TotalesModel>mes2', 'TotalesModel>esPorcentaje'], formatter: '.Formatter.formatPercent' }" enabled="false"
+											valueState="{ path: 'TotalesModel>mes2VS', formatter: '.Formatter.formatValueState' }"/>
+									</template>
+								</Column>
+								<Column width="6.5rem">
+									<m:Label text="3"/>
+									<template>
+										<m:Input value="{parts: ['TotalesModel>mes3', 'TotalesModel>esPorcentaje'], formatter: '.Formatter.formatPercent' }" enabled="false"
+											valueState="{ path: 'TotalesModel>mes3VS', formatter: '.Formatter.formatValueState' }"/>
+									</template>
+								</Column>
+								<Column width="6.5rem">
+									<m:Label text="4"/>
+									<template>
+										<m:Input value="{parts: ['TotalesModel>mes4', 'TotalesModel>esPorcentaje'], formatter: '.Formatter.formatPercent' }" enabled="false"
+											valueState="{ path: 'TotalesModel>mes4VS', formatter: '.Formatter.formatValueState' }"/>
+									</template>
+								</Column>
+								<Column width="6.5rem">
+									<m:Label text="5"/>
+									<template>
+										<m:Input value="{parts: ['TotalesModel>mes5', 'TotalesModel>esPorcentaje'], formatter: '.Formatter.formatPercent' }" enabled="false"
+											valueState="{ path: 'TotalesModel>mes5VS', formatter: '.Formatter.formatValueState' }"/>
+									</template>
+								</Column>
+								<Column width="6.5rem">
+									<m:Label text="6"/>
+									<template>
+										<m:Input value="{parts: ['TotalesModel>mes6', 'TotalesModel>esPorcentaje'], formatter: '.Formatter.formatPercent' }" enabled="false"
+											valueState="{ path: 'TotalesModel>mes6VS', formatter: '.Formatter.formatValueState' }"/>
+									</template>
+								</Column>
+								<Column width="6.5rem">
+									<m:Label text="7"/>
+									<template>
+										<m:Input value="{parts: ['TotalesModel>mes7', 'TotalesModel>esPorcentaje'], formatter: '.Formatter.formatPercent' }" enabled="false"
+											valueState="{ path: 'TotalesModel>mes7VS', formatter: '.Formatter.formatValueState' }"/>
+									</template>
+								</Column>
+								<Column width="6.5rem">
+									<m:Label text="8"/>
+									<template>
+										<m:Input value="{parts: ['TotalesModel>mes8', 'TotalesModel>esPorcentaje'], formatter: '.Formatter.formatPercent' }" enabled="false"
+											valueState="{ path: 'TotalesModel>mes8VS', formatter: '.Formatter.formatValueState' }"/>
+									</template>
+								</Column>
+								<Column width="6.5rem">
+									<m:Label text="9"/>
+									<template>
+										<m:Input value="{parts: ['TotalesModel>mes9', 'TotalesModel>esPorcentaje'], formatter: '.Formatter.formatPercent' }" enabled="false"
+											valueState="{ path: 'TotalesModel>mes9VS', formatter: '.Formatter.formatValueState' }"/>
+									</template>
+								</Column>
+								<Column width="6.5rem">
+									<m:Label text="10"/>
+									<template>
+										<m:Input value="{parts: ['TotalesModel>mes10', 'TotalesModel>esPorcentaje'], formatter: '.Formatter.formatPercent' }" enabled="false"
+											valueState="{ path: 'TotalesModel>mes10VS', formatter: '.Formatter.formatValueState' }"/>
+									</template>
+								</Column>
+								<Column width="6.5rem">
+									<m:Label text="11"/>
+									<template>
+										<m:Input value="{parts: ['TotalesModel>mes11', 'TotalesModel>esPorcentaje'], formatter: '.Formatter.formatPercent' }" enabled="false"
+											valueState="{ path: 'TotalesModel>mes11VS', formatter: '.Formatter.formatValueState' }"/>
+									</template>
+								</Column>
+								<Column width="6.5rem">
+									<m:Label text="12"/>
+									<template>
+										<m:Input value="{parts: ['TotalesModel>mes12', 'TotalesModel>esPorcentaje'], formatter: '.Formatter.formatPercent' }" enabled="false"
+											valueState="{ path: 'TotalesModel>mes12VS', formatter: '.Formatter.formatValueState' }"/>
+									</template>
+								</Column>
+								<Column width="6.5rem">
+									<m:Label text="Total general"/>
+									<template>
+										<m:Input value="{parts: ['TotalesModel>total', 'TotalesModel>esPorcentaje'], formatter: '.Formatter.formatPercent' }" editable="false"/>
+									</template>
+								</Column>
+								<Column width="6.5rem">
+									<m:Label text="Promedio"/>
+									<template>
+										<m:Input value="{TotalesModel>promedio}" editable="false"/>
+									</template>
+								</Column>
+							</columns>
+						</Table>
+					</m:IconTabFilter>
+					<m:IconTabSeparator/>
+					<m:IconTabFilter icon="sap-icon://activities" key="Ok" id="iconRealText" text="{i18n>textReal}" class="iconReal">
+
+					<!--	<u:FileUploader id="FileUploaderId" fileType="XLSX,xlsx"
+						icon="sap-icon://upload" iconFirst="true" style="Emphasized" change="onUpload" buttonText="{i18n>button.adjunto.text}" tooltip="{i18n>tooltips.adjuntos.text}"
+						placeholder="{i18n>placeholder.adjuntos.text}"/> -->
+
+						<Table id="tableReal" rows="{viewModel>/real}" selectionMode="None" alternateRowColors="true" ariaLabelledBy="title" fixedColumnCount="7"
+							filter="onFilterTable">
+							<columns>
+								<Column width="8rem">
+									<m:Label text="CeCo"/>
+									<template>
+										<m:Input value="{viewModel>Kostl}" enabled="false"/>
+									</template>
+								</Column>
+								<Column width="8rem">
+									<m:Label text="Nombre CeCo"/>
+									<template>
+										<m:Input value="{viewModel>LtextCeco}" enabled="false"/>
+									</template>
+								</Column>
+								<Column width="8rem" filterProperty="Actividad" defaultFilterOperator="StartsWith">
+									<m:Label text="Actividad"/>
+									<template>
+										<m:Input value="{viewModel>Lstar}" enabled="false"/>
+									</template>
+								</Column>
+								<Column width="8rem">
+									<m:Label text="Denominacion Actividad"/>
+									<template>
+										<m:Input value="{viewModel>LtextAct}" enabled="false"/>
+									</template>
+								</Column>
+								<Column width="8rem">
+									<m:Label text="Tipo Receptor"/>
+									<template>
+										<m:Input value="{viewModel>TipoRecep}" enabled="false"/>
+									</template>
+								</Column>
+								<Column width="8rem" filterProperty="Destino">
+									<m:Label text="Destino"/>
+									<template>
+										<m:Input value="{viewModel>Rkstr}" enabled="false"/>
+									</template>
+								</Column>
+								<Column width="8rem">
+									<m:Label text="Denominacion Destino"/>
+									<template>
+										<m:Input value="{viewModel>DestiDesc}" enabled="false"/>
+									</template>
+								</Column>
+								<Column width="4.5rem" visible="{viewModel>/mes1Visible}">
+									<m:Label text="1"/>
+									<template>
+										<m:Input value="{viewModel>Mes1}" enabled="false"/>
+									</template>
+								</Column>
+								<Column width="4.5rem" visible="{viewModel>/mes2Visible}">
+									<m:Label text="2"/>
+									<template>
+										<m:Input value="{viewModel>Mes2}" enabled="false"/>
+									</template>
+								</Column>
+								<Column width="4.5rem" visible="{viewModel>/mes3Visible}">
+									<m:Label text="3"/>
+									<template>
+										<m:Input value="{viewModel>Mes3}" enabled="false"/>
+									</template>
+								</Column>
+								<Column width="4.5rem" visible="{viewModel>/mes4Visible}">
+									<m:Label text="4"/>
+									<template>
+										<m:Input value="{viewModel>Mes4}" enabled="false"/>
+									</template>
+								</Column>
+								<Column width="4.5rem" visible="{viewModel>/mes5Visible}">
+									<m:Label text="5"/>
+									<template>
+										<m:Input value="{viewModel>Mes5}" enabled="false"/>
+									</template>
+								</Column>
+								<Column width="4.5rem" visible="{viewModel>/mes6Visible}">
+									<m:Label text="6"/>
+									<template>
+										<m:Input value="{viewModel>Mes6}" enabled="false"/>
+									</template>
+								</Column>
+								<Column width="4.5rem" visible="{viewModel>/mes7Visible}">
+									<m:Label text="7"/>
+									<template>
+										<m:Input value="{viewModel>Mes7}" enabled="false"/>
+									</template>
+								</Column>
+								<Column width="4.5rem" visible="{viewModel>/mes8Visible}">
+									<m:Label text="8"/>
+									<template>
+										<m:Input value="{viewModel>Mes8}" enabled="false"/>
+									</template>
+								</Column>
+								<Column width="4.5rem" visible="{viewModel>/mes9Visible}">
+									<m:Label text="9"/>
+									<template>
+										<m:Input value="{viewModel>Mes9}" enabled="false"/>
+									</template>
+								</Column>
+								<Column width="4.5rem" visible="{viewModel>/mes10Visible}">
+									<m:Label text="10"/>
+									<template>
+										<m:Input value="{viewModel>Mes10}" enabled="false"/>
+									</template>
+								</Column>
+								<Column width="4.5rem" visible="{viewModel>/mes11Visible}">
+									<m:Label text="11"/>
+									<template>
+										<m:Input value="{viewModel>Mes11}" enabled="false"/>
+									</template>
+								</Column>
+								<Column width="4.5rem" visible="{viewModel>/mes12Visible}">
+									<m:Label text="12"/>
+									<template>
+										<m:Input value="{viewModel>Mes12}" enabled="false"/>
+									</template>
+								</Column>
+								<Column width="4.5rem">
+									<m:Label text="Total general"/>
+									<template>
+										<m:Input value="{path: 'viewModel>Total', type:'sap.ui.model.type.Float', formatOptions: { maxFractionDigits: 2 }}" editable="false"/>
+									</template>
+								</Column>
+								<Column width="4.5rem">
+									<m:Label text="Promedio"/>
+									<template>
+										<m:Input value="{path: 'viewModel>Promedio', type:'sap.ui.model.type.Float', formatOptions: { maxFractionDigits: 2 }}" editable="false"/>
+									</template>
+								</Column>
+							</columns>
+						</Table>
+					</m:IconTabFilter>
+				</m:items>
+			</m:IconTabBar>
+		</m:content>
+		<m:footer>
+			<m:Toolbar width="100%" id="toolbar2">
+				<m:content>
+					<m:ToolbarSpacer/>
+					<m:Button text="Guardar" type="Accept" press="onSaveData" id="buttonSave"/>
+				</m:content>
+			</m:Toolbar>
+		</m:footer>
+	</m:Page>
+	</mvc:View>

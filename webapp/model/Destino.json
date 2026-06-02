@@ -1,0 +1,5491 @@
+{
+	"List": [{
+		"key": "Grafos de inversi?n",
+		"text": "Grafos de inversi?n",
+		"receptor": "Grafos de inversi?n"
+	}, {
+		"key": "Grafos de venta",
+		"text": "Grafos de venta",
+		"receptor": "Grafos de venta"
+	}, {
+		"key": "Grafos de Gasto",
+		"text": "Grafos de Gasto",
+		"receptor": "Grafos de Gasto"
+	}, {
+		"key": "6500000",
+		"text": "Global Crossing.Fibra Optica del Pac?fic",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500001",
+		"text": "Control de gastos predio el Tablazo",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900000",
+		"text": "Herramientas de productividad",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600001",
+		"text": "Obras Por Impuestos PILAS MAICAO",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900001",
+		"text": "ACUMULADOR GASTOS PACTO COLECTIVO",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900002",
+		"text": "ACUMULADOR GASTOS CONVENCI?N COLECTIVA",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500002",
+		"text": "Adecuac.m?dulos alojam.S/E Ca?o Lim",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900003",
+		"text": "Acompa?am. y atenci?n entes externos",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900004",
+		"text": "Def.plan anual trabajo",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900005",
+		"text": "Comit? de Auditores Internos",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900006",
+		"text": "Grupos primarios",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900007",
+		"text": "Seguimiento plan de mejoramiento",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900008",
+		"text": "Iniciativas",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900009",
+		"text": "Capacitaci?n",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900010",
+		"text": "RED Colaborativa",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900011",
+		"text": "Terminac. Auditor?as A?o Anterior ISA",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900012",
+		"text": "Comit? auditor?a y Junta Directiva",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900013",
+		"text": "Participaci?n Comit?s",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900014",
+		"text": "Gtos Socioambiental",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900015",
+		"text": "Gtos Auditor?a Corporativa",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900016",
+		"text": "Gtion Comunicaciones Dir.Plan.Financiera",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900017",
+		"text": "Gtos Abastecimiento",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900018",
+		"text": "Gtos Gesti?n de Riesgos",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900019",
+		"text": "Gtion Comunicaciones Sec.General",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900020",
+		"text": "Gtos Inform?tica",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900021",
+		"text": "Gtos Gesti?n Talento Humano",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900022",
+		"text": "Gtos Riesgos Sociopol?ticos",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900023",
+		"text": "Gtion Comunicaciones Proy.Especiales",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600003",
+		"text": "ACCIONES DE ISA-REGION",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600004",
+		"text": "ACCIONES EN COMUNICACIONES",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600005",
+		"text": "ACCIONES EN EDUCACION",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600006",
+		"text": "ACCIONES EN RSE y DH",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600007",
+		"text": "ACCIONES EN CONVIVENCIA Y GEST",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600008",
+		"text": "ACCIONES AMBIENTALES",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500003",
+		"text": "Ofertas Conv.UPME Dir.Gesti?n de Mtto",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600010",
+		"text": "Ofertas Conv.UPME Dir. Sostenibilidad",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900024",
+		"text": "Gtion Comunicaciones CSC-Centro Serv.Com",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900025",
+		"text": "Ofertas Conv.UPME Dir.Estrategia",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900026",
+		"text": "Ofertas Conv.UPME Dir.Talento Organizac.",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900028",
+		"text": "Ofertas Conv.UPME Dir. Aprovisionamiento",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900029",
+		"text": "Ofertas Conv.UPME  Dir. Jur?dica",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900030",
+		"text": "Gtion Comunicaciones Gcia General",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900031",
+		"text": "Ofertas Conv.UPME Dir. Planeaci?n Financ",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900032",
+		"text": "Ofertas Conv.UPME Dir. Contabil e Imptos",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900034",
+		"text": "Gtos Generales D. Comunicaciones",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600011",
+		"text": "Ofertas Conv. UPME Gerencia de Proyectos",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600012",
+		"text": "Liquidaci?n Pedido Gerenciamiento",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500004",
+		"text": "Ofertas Conv. UPME Dir. de la Operaci?n",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500005",
+		"text": "Ofertas Conv. UPME Gcia. Operaciones",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500006",
+		"text": "Capacitaci?n INTERNEXA PER?",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900043",
+		"text": "Apoyo D. Contabilidad e Impuestos",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900044",
+		"text": "Apoyo D. Planeaci?n Financiera a ISA",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900045",
+		"text": "LIBRE",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900049",
+		"text": "Convenio con PRODEOCSA",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900050",
+		"text": "PROGRAMA DE DESARROLLO Y PAZ DEL CESAR",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600013",
+		"text": "Gastos postventa proyectos",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900051",
+		"text": "Auditorias ISA",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900052",
+		"text": "Auditorias ITCO",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900053",
+		"text": "Proyecto Sinergias con TRANSELCA",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900055",
+		"text": "RSE de ISA",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900056",
+		"text": "Ad?m Ctos y Ptto de ISA",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900057",
+		"text": "Apoyo Secretaria General",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900058",
+		"text": "Trabajos de Apoyo Dir Informatica a ISA",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600015",
+		"text": "Gastos proyecto CHUR",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500008",
+		"text": "Otras actividades operativas del negocio",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900059",
+		"text": "Orden para cargar Ppto TI paraCTE Orient",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900060",
+		"text": "Orden para cargar Ppto TI para CTE Torca",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900061",
+		"text": "Cargar presupuesto TI para CTE Ancon Sur",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900062",
+		"text": "Orden par cargar Ppto TI paraCTE Palmira",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900063",
+		"text": "Orden para CATS proyecto NIIF",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500009",
+		"text": "Atencion emergencias ISA - BOLIVIA",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500010",
+		"text": "Implementaci?n de la Gesti?n de Activos",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900064",
+		"text": "Registro CATS Proyecto BPC",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900065",
+		"text": "Gtos Even-Impre-Publi",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900066",
+		"text": "Gtion Comunicaciones GDO",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900067",
+		"text": "Gtion Comunicaciones GDP",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900068",
+		"text": "Gtion Comunicaciones DEC",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900069",
+		"text": "Gtion Comunicaciones DAB",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900070",
+		"text": "Gtion Comunicaciones DA",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900071",
+		"text": "Gtion Comunicaciones DTO",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900072",
+		"text": "Gtos Capacitaci?n Gerencia Gral",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900073",
+		"text": "Gtos Capacitaci?n Gerencia Operaciones",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900074",
+		"text": "Gtos Capacitaci?n Dir. Gesti?n Mtto",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900075",
+		"text": "Gtos Capacitacion Dir. Operaci?n",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900076",
+		"text": "Gtos Capacitaci?n CTE Centro",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900077",
+		"text": "Gtos Capacitaci?n CTE Noroccidente",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900078",
+		"text": "Gtos Capacitaci?n CTE Oriente",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900079",
+		"text": "Gtos Capacitaci?n CTE Suroccidente",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900080",
+		"text": "Gtos Capacitaci?n Gerencia Finanzas",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900081",
+		"text": "Gtos Capacitaci?n D. Contabilidad e Impu",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900082",
+		"text": "Gtos Capacitaci?n D.Planeaci?n Financier",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900083",
+		"text": "Gtos Capacitaci?n Coordinac Recurs Finan",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900084",
+		"text": "Gtos Capacitacion Dir. Estrategia",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900085",
+		"text": "Gtos Capacitaci?n D.Talento Organizacion",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900086",
+		"text": "Gtos Capacitaci?n D.Tecnolog?a de Inform",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900087",
+		"text": "Gtos Capacitaci?n Dir. Auditor?a",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900088",
+		"text": "Gtos Capacitaci?n Secretar?a General",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900089",
+		"text": "Gtos Capacitaci?n Dir. Comunicaciones",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900090",
+		"text": "Gtos Capacitaci?n Gcia Proyectos Especia",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900091",
+		"text": "Gtos Capacitaci?n Dir. Aprovisionamiento",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900092",
+		"text": "Gtos Capacitaci?n Gcia Centro Serv.Compa",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900093",
+		"text": "Gtos Capacitaci?n Gerencia de Proyectos",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900094",
+		"text": "Gtos Capacitaci?n D. Sostenibilidad",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900095",
+		"text": "Gtos Capacitaci?n D.Ejec.Proy.Centro Sur",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900096",
+		"text": "Apoyo TI nodo LATAM",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600017",
+		"text": "Aseguramie.Entrada en Operaci?n Proyecto",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900097",
+		"text": "Implementar nuevas funcionalidades-SARIM",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900098",
+		"text": "GIS para gesti?n Proy. ambient y predial",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900099",
+		"text": "Implementaci?n servicio enla nube Aconex",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900100",
+		"text": "Implem soluci?n Gesti?n de Abastec ARIBA",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900101",
+		"text": "Renovaci?n ofim?tica de grupo",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900102",
+		"text": "Realizar el despliegue Office 365",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900103",
+		"text": "Implementaci?n software junta directiva",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900104",
+		"text": "Implementar ajustes a Unico",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900105",
+		"text": "Implementaci?n de Integro",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900106",
+		"text": "Renov Platafor. a Sevidores, almac y res",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900107",
+		"text": "Realizar Cambio plan de cuentas en Colom",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900108",
+		"text": "Auditorias Sistema Integrado de Gestion",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500011",
+		"text": "Centralizaci?n adtiva contratos y presup",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900109",
+		"text": "Aplicaci?n DST SALVO-Proceso Gest Activo",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500013",
+		"text": "Riesgo Sociopolitico - CTE Noroccidente",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500014",
+		"text": "Riesgo Sociopolitico - CTE Centro",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500015",
+		"text": "Gest Riesgos Sociopolitico - CTE Oriente",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500016",
+		"text": "Gest Riesgo Sociopolitico - CTE Suroccid",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900110",
+		"text": "PROYECTO HOST TO HOST (H2H)",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900111",
+		"text": "PROYECTO TRANSFORMACION TO",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900112",
+		"text": "PROYECTO BT_SST_COLCIENCIAS",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500017",
+		"text": "SST - CTE Norocidente",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500018",
+		"text": "Asist Higiene Segur Indust CTE Centro",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600018",
+		"text": "Gestion Integral de la Biodiversidad - M",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600019",
+		"text": "Gestion Integral de la Biodiversidad - C",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600020",
+		"text": "Gesti?n de agua, aire y suelo - Monitore",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600021",
+		"text": "Gesti?n de agua, aire y suelo - Saneamie",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600022",
+		"text": "Gesti?n Integral de la Biodiversidad Com",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600023",
+		"text": "Gesti?n del Cambio Clim?tico",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600024",
+		"text": "Ecoeficiencia",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600025",
+		"text": "Educaci?n Ambiental Complementaria",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600026",
+		"text": "Apoyo a iniciativas comunitarias y de de",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600027",
+		"text": "Acciones de solidaridad y convivencia",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600028",
+		"text": "PIPC O & M",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600029",
+		"text": "Educaci?n Ambiental a comunidades",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600030",
+		"text": "Gestion predial de servidumbres",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600031",
+		"text": "Pago Servidumbre en lineas",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600032",
+		"text": "Incorporacion inventario Lineas a Herram",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600033",
+		"text": "Pago vegetacion en O y M",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600034",
+		"text": "Tramites y servicios legal-predial",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600035",
+		"text": "Comunicaciones O&M",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600036",
+		"text": "Monitoreo legislativo y ejecutivo local",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600037",
+		"text": "Programa de Relacionamiento Anticipado",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600038",
+		"text": "Estudios, Licencias y Permisos Ambiental",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600039",
+		"text": "Alianzas estrat?gicas para el desarrollo",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600040",
+		"text": "Compensaci?n social - PBC",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600041",
+		"text": "Identificaci?n y Saneamiento Predios Pro",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600042",
+		"text": "Gesti?n con grupos de inter?s",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900113",
+		"text": "Proyecto portal unificado de informaci?n",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900114",
+		"text": "Programa de innovaci?n y mejora continua",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600045",
+		"text": "Conexi?n Jaguar DASP",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900115",
+		"text": "Proyecto SITCO Ambiental y Social",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600047",
+		"text": "Escuela ESP del sector electrico",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500019",
+		"text": "ITCO GASTOS G.OPERACIONES",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900116",
+		"text": "Servicios TO (CSC) a ITCO",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900117",
+		"text": "Servicios Administrativos (CSC) ITCO",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500020",
+		"text": "Operaci?n y Mtto Equipos Bus del proceso",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500021",
+		"text": "Implementaci?n APM - Estrategia 2030",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500022",
+		"text": "Ofertas NO Convoc. UPME. Dir.Gesti?nMtto",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500023",
+		"text": "Ofertas NO Convoc. UPME  Dir. de la Oper",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500024",
+		"text": "Ofertas NO Convoc. UPME  Gcia. Operacion",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600048",
+		"text": "Reasentamiento O&M",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600049",
+		"text": "Ofertas AmpliaUPME-Renov-AdmonDeleg D.So",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600050",
+		"text": "Ofertas AmpUPME-Reno-AdmonDeleg G.Proyec",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900118",
+		"text": "Ofertas NO Convoc. UPME. Dir.Estrategia",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900119",
+		"text": "Ofertas NO Convoc. UPME. Dir. Talento Or",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900120",
+		"text": "Ofertas NO Convoc. UPME. Dir.Aprovisiona",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900121",
+		"text": "Ofertas NO Convoc. UPME. Dir.Jur?dica",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900122",
+		"text": "Ofertas Convoc. UPME. Dir.PlaneacFra",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900123",
+		"text": "Ofertas NO Convoc. UPME. Dir. Contabil e",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900125",
+		"text": "Otros gastos de personal CSC",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500027",
+		"text": "Apoyo a Peru - Dir.Gesti?n de Mtto",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900130",
+		"text": "TRANSFORMACION DIGITAL",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900131",
+		"text": "Redise?o Modelo de Costos TE",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500028",
+		"text": "Casino y Cafeter?a  Dir.CTE Noroccidente",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900132",
+		"text": "Casino y Cafeter?a  D. Aprovisionamiento",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900133",
+		"text": "Casino y Cafeter?a  Gerencia Finanzas",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900134",
+		"text": "Casino y Cafeter?a  D.Contabilidad e Imp",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900135",
+		"text": "Casino y Cafeter?a  D. Planeaci?n Financ",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900136",
+		"text": "Casino y Cafeter?a  Secreatar?a General",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900137",
+		"text": "Casino y Cafeter?a  D. Tecnolog?a de Inf",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900138",
+		"text": "Casino y Cafeter?a  D. Comunicaciones",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500029",
+		"text": "Casi y Cafet CTE Norocc-San Carlos 500-O",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500030",
+		"text": "Casino y Cafeter CTE Norocc CERRO 500-O",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500031",
+		"text": "Casino y Cafet CTE Noroc JAGUAS 230-O",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500032",
+		"text": "Casino y Cafeter?a CTE Noroc PORCE 500-O",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500033",
+		"text": "Casino y Cafet CTE Noroc-Antioquia 500-O",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500034",
+		"text": "Casino y Cafeter?a CTE Noroc Chinu 500-O",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500035",
+		"text": "Casino y Cafeter?a  Dir. CTE Oriente",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500036",
+		"text": "Casino y Cafeter CTE Oriente-Operaci S/E",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500037",
+		"text": "Casino y Cafeter?a  Dir.CTE Suroccidente",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500038",
+		"text": "Casino y Cafeter?a  CTE Suroc ESMER 230",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500039",
+		"text": "Casino y Cafeter?a  Dir. CTE Centro",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500040",
+		"text": "Casino y Cafet CTE Centro - Miel I 230-O",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500041",
+		"text": "Casino y Cafeter?a  Gerencia de Operacio",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500042",
+		"text": "Casino y Cafeter?a  D. Operaci?n",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500043",
+		"text": "Casino y Cafeter?a  D. Mantenimiento",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500044",
+		"text": "Casino y Cafeter Gestionar Agentes y Cli",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600051",
+		"text": "Casino y Cafeter?a Gerencia de Proyectos",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600052",
+		"text": "Casino y Cafet  D Ejecuc.Proy Centro Sur",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6600053",
+		"text": "Casino y Cafeter?a  Planeaci?n e Integra",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6650000",
+		"text": "Casino y Cafeter?a  D. Sostenibilidad",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900139",
+		"text": "Casino y Cafeter?a  D. Servicios Adm CSC",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900140",
+		"text": "Casino y Cafeter?a  Servicios Administra",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900141",
+		"text": "Casino y Cafeter?a  Gerencia CSC",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900142",
+		"text": "Casino y Cafeter?a  Gerencia General",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900143",
+		"text": "Casino y Cafeter?a  Coord. Integraci?n G",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500045",
+		"text": "Casino y Cafeter?a CTE Noroc PORCE 500-M",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900147",
+		"text": "Gtos Capacitaci?n Gestion.Agentes y Clie",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500049",
+		"text": "Estudio de conexi?n Delphi",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900148",
+		"text": "Gtos Capacitaci?n CSC Multifuncional",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900149",
+		"text": "Gtos Capacitac.Dir.Serv.TalentoOrg. CSC",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900150",
+		"text": "Gtos Capacitac.Dir.Servicios.Adtivos.CSC",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900151",
+		"text": "Gtos Capacitaci?n Servi. Adtivos CTE CSC",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900152",
+		"text": "Gtos Capacitaci?n Gesti?n Cliente CSC",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900153",
+		"text": "Gtos Capacitaci?n D.Ejec.Proyectos Norte",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900154",
+		"text": "ENGANCHE PERSONAL DIR. TALENTO ORGANIZAC",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900155",
+		"text": "ENGANCHE PERSONAL GERENCIA GENERAL",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900156",
+		"text": "ENGANCHE PERSONAL DIRECCION ESTRATEGIA",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900157",
+		"text": "ENGANCHE PERSONAL DIRECCION TI",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900158",
+		"text": "ENGANCHE PERSONAL DIRECCION APROVISIONAM",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900159",
+		"text": "ENGANCHE PERSONAL GERENCIA CSC",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900160",
+		"text": "ENGANCHE PERSONAL CSC MULTIFUNCIONAL",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900161",
+		"text": "ENGANCHE PERSONAL DIR. SERV. TALENTO CSC",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900162",
+		"text": "ENGANCHE PERSONAL DIR. SEV. ADTIVOS CSC",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900163",
+		"text": "ENGANCHE PERSONAL SER ADMINIST CTE CSC",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900164",
+		"text": "ENGANCHE PERSONAL GESTION CLIENTE CSC",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900165",
+		"text": "ENGANCHE PERSONAL SECRETARIA GENERAL",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900166",
+		"text": "ENGANCHE PERSONAL DIR. AUDITOR?A",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900168",
+		"text": "ENGANCHE PERSONAL GERENCIA FINANCIERA",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900169",
+		"text": "ENGANCHE PERSONAL DIR. PLANEAC FINANCIER",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900170",
+		"text": "ENGANCHE PERSONAL COOR RECURSOS FCIEROS",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900171",
+		"text": "ENGANCHE PERSONAL DIR. CONTABIL E IMPTOS",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900172",
+		"text": "ENGANCHE PERSONAL DIR. COMUNICACIONES",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900173",
+		"text": "ENGANCHE PERSONAL GERENCIA DE PROYECTOS",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900174",
+		"text": "ENGANCHE PERSONAL DIR EJEC PROY CENT SUR",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900175",
+		"text": "ENGANCHE PERSONAL GEST PROY CENTRO SUR",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900176",
+		"text": "ENGANCHE PERSONAL DIR EJECUC PROY NORTE",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900177",
+		"text": "ENGANCHE PERSONAL DIRECC. SOSTENIBILIDAD",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900178",
+		"text": "ENGANCHE PERSONAL GERENCIA OPERACIONES",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900179",
+		"text": "ENGANCHE PERSONAL DIR GEST MANTENIMIENTO",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900180",
+		"text": "ENGANCHE PERSONAL DIR. DE LA OPERACION",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900181",
+		"text": "ENGANCHE PERSONAL DIRECCION CTE CENTRO",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900182",
+		"text": "ENGANCHE PERSONAL DIRECCION CTE ORIENTE",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900183",
+		"text": "ENGANCHE PERSONAL DIR. CTE SUROCCIDENTE",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900184",
+		"text": "ENGANCHE PERSONAL DIR. CTE NOROCCIDENTE",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6500050",
+		"text": "ESTUDIO ONEXI?N Shire Oak Proyecto Bendi",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900185",
+		"text": "Apoyo Direccion aprovisionamiento a ISA",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900186",
+		"text": "Orden de gastos para honorarios",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900187",
+		"text": "Solicitud creaci?n de Orden Suscripcione",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900188",
+		"text": "Implemen BIM en ciclo de vida del activo",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "6900189",
+		"text": "Proyecto implementaci?n CPM",
+		"receptor": "Orden Gasto"
+	}, {
+		"key": "C1118",
+		"text": "Ss-NO ISA-Gerencia General (Oficina Bogot?)",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C1120",
+		"text": "Ss- ISA-Gerencia General (Oficina Bogot?)",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C1415",
+		"text": "Ss-NO ISA- Dir. Talento Organizacional",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C1416",
+		"text": "Ss- ISA -Dir. Talento Organizacional -NCP",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C50099",
+		"text": "  Ss-TI INTERCOLOMBIA -GERENCIA DE PROYECTOS ",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C50100",
+		"text": "  Ss-TI INTERCOLOMBIA -GERENCIA DE OPERACI?N ",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C50101",
+		"text": "  Ss-TI CTEEP",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C50102",
+		"text": "Ss-TI CONSORCIO TRANSMANTARO",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C50103",
+		"text": "Ss-TI INTERCHILE S.A.",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C50104",
+		"text": "Ss-TI INTERCON. EL?CTRICA ISA - PER?",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C50105",
+		"text": "Ss-TI INTERCON EL?CTRICA COLOMBIA PANAM?",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C50106",
+		"text": "Ss-TI INTERCON. EL?CTRICA ISA BOLIVIA",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C50107",
+		"text": "Ss-TI INTERNEXA CHILE ",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C50108",
+		"text": "Ss-TI INTERNEXA PERU S.A.",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C50109",
+		"text": "Ss-TI INTERNEXA ",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C50110",
+		"text": "Ss-TI INTERVIAL CHILE ",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C50111",
+		"text": "Ss-TI PROYECTOS DE INFRAEST. DEL PERU",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C50112",
+		"text": "Ss-TI RED DE ENERG?A DEL PER? S.A.",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C50113",
+		"text": "Ss-TI TRANSAMERICAN TELECOMUNICATION ",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C50114",
+		"text": "Ss-TI TRANSELCA S.A. E.S.P.",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C50115",
+		"text": "Ss-TI XM EXPERTOS EN MERCADOS ",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C50116",
+		"text": "Ss-TI INTERCON. EL?CTRICA S.A. E.S.P.",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C1616",
+		"text": "Ss-NO ISA-Aprovisionamiento (CP)",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C1617",
+		"text": "Ss-ISA- Aprovisionamiento -NCP",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C1621",
+		"text": "Ss -NO ISA Almacenes e Inventarios (CP)",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C16481",
+		"text": "Ss-INTERNEXA -CSC (CP) ",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C16482",
+		"text": "Ss- XM - CSC (CP)",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C16483",
+		"text": "Ss- SISTEMAS INTELIGENTES EN RED -CSC (CP) ",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C16484",
+		"text": "Ss-ISA- CSC - (NCP)",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C16486",
+		"text": "Ss- PROYECTOS DE INFRAEST. DEL PERU -CSC (CP) ",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C16487",
+		"text": "Ss- RED DE ENERG?A DEL PER? S.A. -CSC (CP) ",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C16488",
+		"text": "Ss- INTERVIAL CHILE  -CSC (CP) ",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C16489",
+		"text": "Ss- INTERCON. EL?CTRICA ISA BOLIVIA -CSC (CP) ",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C16490",
+		"text": "Ss- INTERCHILE S.A.-CSC (CP) ",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C1633",
+		"text": "Ss-ISA-Ss  Empresariales -(NCP)",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C1646",
+		"text": "Ss CORPAUL -Ss Empresariales (CP)",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C1647",
+		"text": "Ss UNE- Ss Empresariales (CP)",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C1650",
+		"text": "Ss ARCANO -Ss Empresariales (CP)",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C1651",
+		"text": "Ss-ITCO-Ss Empresariales (CP)",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C1652",
+		"text": "Ss-TRANSELCA-Ss Empresariales (CP)",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C1653",
+		"text": "Ss-INTERNEXA-Ss Empresariales (CP)",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C1654",
+		"text": "Ss-XM-Ss Empresariales (CP)",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C1655",
+		"text": "Ss LOMADENTRO -Ss Empresariales (CP)",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C1656",
+		"text": "Ss SIER -Ss Empresariales (CP)",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C1718",
+		"text": "Ss- ISA - Secretar?a General  (NCP)",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C1720",
+		"text": "Ss- NO ISA - Secretar?a General  (CP)",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C1912",
+		"text": "Ss- ISA - Gerencia Finanzas (NCP)",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C4120",
+		"text": "Ss- ISA - Gestion Comercial (Facturac?n y Cartera)-NCP",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C1927",
+		"text": "Ss- NO ISA - Direcci?n Planeaci?n y Tesorer?a",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C1932",
+		"text": "Ss- NO ISA - Recursos Financieros",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C1945",
+		"text": "Ss- ISA - Direcci?n Contabilidad e Imptos",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C2017",
+		"text": "Ss- ISA - Direcci?n Comunicaciones -NCP",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C3216",
+		"text": "Ss Proyectos Venta a terceros NO ISA  (CP)",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C3217",
+		"text": "Ss Gerenciamiento ISA  (NCP)",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C3218",
+		"text": "Ss Soporte Proyectos -(NCP)",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C4114",
+		"text": "Ss-Gerenciamiento CTEs (NCP)",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C4110",
+		"text": "Ss- AOM - No ISA (CP) -  ATP",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C4115",
+		"text": "Ss- AOM - No ISA (CP)",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C4116",
+		"text": "Ss- AOM - ISA (NCP)",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C4117",
+		"text": "Ss- Estudios y Consultor?a (CP)",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C4118",
+		"text": "Ss- Arrendamiento de infraestructura (CP)",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C4122",
+		"text": "Ss- NO ISA - Riesgo Socio Pol?tico",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C4127",
+		"text": "Ss-ISA - Riesgo Socio Pol?tico NCP",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C4129",
+		"text": "Ss-Otros Servicios TE (CP)",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C4418",
+		"text": "Ss Adtivos NO ISA -Dir.CTE Centro",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C4420",
+		"text": "Ss Otros No Regulados TE - NO ISA-Dir.CTE Centro",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C4421",
+		"text": "Ss AOM-NO ISA-Dir.CTE Centro",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C4518",
+		"text": "Ss Adtivos NO ISA-Dir.CTE Oriente",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C4520",
+		"text": "Ss Otros No Regulados TE - NO ISA-Dir.CTE Oriente",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C4521",
+		"text": "Ss AOM -NO ISA-Dir.CTE Oriente",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C4618",
+		"text": "Ss Adtivos NO ISA-Dir.CTE Suroccidente",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C4620",
+		"text": "Ss Otros No Regulados TE - NO ISA-Dir.CTE Suroccidente",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C4621",
+		"text": "Ss AOM-NO ISA-Dir.CTE Suroccidente",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C4718",
+		"text": "Ss Adtivos NO ISA-Dir.CTE Noroccidente",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C4720",
+		"text": "Ss Otros No Regulados TE - NO ISA-Dir.CTE Noroccidente",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C4721",
+		"text": "Ss AOM -NO ISA-Dir.CTE Noroccidente",
+		"receptor": "Cent. Costos Serv."
+	}, {
+		"key": "C10000",
+		"text": "TRANSPORTE DE ENERGIA",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C10500",
+		"text": "REGULADOS STE  -CP ",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C10600",
+		"text": "REGULADOS STE -NCP",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C11000",
+		"text": "USO",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C11100",
+		"text": "USO Red Existentes -CP",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C11150",
+		"text": "USO Red Existentes -NCP",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C11200",
+		"text": "USO UPMES -CP ",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "CUP0713",
+		"text": "UPME  07-13 Monter?a",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "CUP0514",
+		"text": "UPME 0514- REFUERZO COSTA CARIBE 500 KV",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "CUP0316",
+		"text": "UPME 03-16 SAN ANTONIO",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "CUP0314",
+		"text": "UPME 0314-SUBESTACIONES ITUANGO-MEDELLIN",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "CUP0817",
+		"text": "UPME 0817-SOTR (3er Trafo Sogamoso)",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "CUP0916",
+		"text": "UPME 0916-COCU (2?Refu.COP-CUES y COP-FUND) ",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "CUP0618",
+		"text": "UPME 0618-TRIO (S/E El R?o 220 KV)",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "CUP0118",
+		"text": "UPME 01-2018 - Segundo Transformador Oca?a 500/230 kV",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "CUP0717",
+		"text": "UPME 07 - 2017 Sabanalarga - Bolivar 500 kV",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C11250",
+		"text": "USO UPMES -NCP ",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C12000",
+		"text": "CONEXI?N -CP",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C12100",
+		"text": "CONEXI?N -NCP",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C11125",
+		"text": "CTE Noroccidente",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C11135",
+		"text": "CTE Oriente",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C11145",
+		"text": "CTE Suroccidente",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C11155",
+		"text": "CTE Centro",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C13000",
+		"text": "NO REGULADOS - ASOCIADOS STE",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C13100",
+		"text": "AOM  STE",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C13300",
+		"text": "ESTUDIOS Y CONSULTORiAS STE",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "",
+		"text": "OFERTAS",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C29050",
+		"text": "Ofertas ISA- Transmisi?n Colombia ",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C29100",
+		"text": "Ofertas ISA- No Transmisi?n Colombia ",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "",
+		"text": "PROYECTOS -COSTOS DE VENTAS (ITCO) / INVERSI?N (ISA)",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C16100",
+		"text": "PROYECTOS DE INFRAESTRUCTURA (No imputables a Grafos) -CP",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C16150",
+		"text": "PROYECTOS CONVOCATORIAS UPME (No imputables a Grafos) -CP",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C16160",
+		"text": "PROYECTOS AMPLIACIONES (No imputables a Grafos) -CP",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C16170",
+		"text": "PROYECTOS  RENOVACIONES (No imputables a Grafos) --GP -CP",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C16180",
+		"text": "PROYECTOS  DE CONEXI?N  (No imputables a Grafos) --GP -CP",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C16800",
+		"text": "RENOVACI?N (No imput.a Ordenes POA)-CP",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "",
+		"text": "PROYECTOS  SERVICIOS (COSTO DE VENTAS)",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C16500",
+		"text": "Ss Proyectos Venta a terceros NO ISA (CP)",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C16600",
+		"text": "Ss Gerenciamiento (NCP)",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C16000",
+		"text": "Ss Soporte Proyectos -(NCP)",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C16650",
+		"text": "Ss-Materiales (CP)",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C16700",
+		"text": "Ss-Gerenciamiento CTEs (NCP)",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "",
+		"text": "PROYECTOS  AREA",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C16200",
+		"text": "Soporte Direcci?n Sostenibilidad + gesti?n predial (O&M).",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C16300",
+		"text": "Soporte a Gcia Proyectos- No O&M  (Proyectos ?rea) para ?reas de soporte",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C13650",
+		"text": "Ss- Administrativos CTE Centro",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C13750",
+		"text": "Ss- Administrativos CTE Oriente",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C13850",
+		"text": "Ss- Administrativos CTE Suroccidente",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C13950",
+		"text": "Ss- Administrativos CTE Noroccidente",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C13900",
+		"text": "TE-Servicios No Cta en Partic.",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C13985",
+		"text": "CANAL CLIENTES STE",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C13980",
+		"text": "Canal Clientes TE- servicio Uso",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C13981  ",
+		"text": "Canal Clientes TE- servicio Uso (Red Existente)  ",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C13982  ",
+		"text": "Canal Clientes TE- servicio Uso (Upmes)    ",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C13986",
+		"text": "Clientes TE- servicio conexion",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C13987",
+		"text": "Clientes TE- Servicios Asociados",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C16985",
+		"text": "Clientes TE - Proyectos",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C21900",
+		"text": "Ss-NO ISA-Gerencia General",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C22000",
+		"text": "Ss-NO ISA-Dir. Humana y Organizacional",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C22100",
+		"text": "Ss- ISA -Dir. Humana y Organizacional (CP)",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C26000",
+		"text": "Ss-NO ISA-Aprovisionamiento y Logistica",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C26010",
+		"text": "Ss-ISA-Aprovisionamiento y Logistica (NCP)",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C26020",
+		"text": "Ss -NO ISA-Almacenes e Inventarios",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C27000",
+		"text": "Ss- ISA - Secretaria General  (NCP)",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C28000",
+		"text": "Ss- ISA - Gerencia Finanzas (NCP)",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C28100",
+		"text": "Ss- NO ISA - Direcci?n Planeaci?n y Control",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C28200",
+		"text": "Ss- NO ISA - Tesorer?a y Finanzas",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C28300",
+		"text": "Ss- ISA - Direcci?n Contabilidad e Imptos",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C28400",
+		"text": "Ss- ISA - Direcci?n Comunicaciones (NCP)",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C28500",
+		"text": "Ss- ISA - Gestion Comercial (Facturac?n y Cartera) -NCP",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C28800",
+		"text": "Ss- NO ISA - Riesgo Socio Pol?tico",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C28900",
+		"text": "Ss-ISA - Riesgo Socio Pol?tico NCP",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C50099",
+		"text": "SS-TI INTERCOLOMBIA -GERENCIA DE PROYECTOS ",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C50100",
+		"text": "SS-TI INTERCOLOMBIA -GERENCIA DE OPERACI?N ",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C50101",
+		"text": "SS-TI CTEEP",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C50102",
+		"text": "SS-TI CONSORCIO TRANSMANTARO",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C50103",
+		"text": "SS-TI INTERCHILE S.A.",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C50104",
+		"text": "SS-TI INTERCON. EL?CTRICA ISA - PER?",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C50105",
+		"text": "SS-TI INTERCON EL?CTRICA COLOMBIA PANAM?",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C50106",
+		"text": "SS-TI INTERCON. EL?CTRICA ISA BOLIVIA",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C50107",
+		"text": "SS-TI INTERNEXA CHILE ",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C50108",
+		"text": "SS-TI INTERNEXA PERU S.A.",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C50109",
+		"text": "SS-TI INTERNEXA ",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C50110",
+		"text": "SS-TI INTERVIAL CHILE ",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C50111",
+		"text": "SS-TI PROYECTOS DE INFRAEST. DEL PERU",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C50112",
+		"text": "SS-TI RED DE ENERG?A DEL PER? S.A.",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C50113",
+		"text": "SS-TI TRANSAMERICAN TELECOMUNICATION ",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C50114",
+		"text": "SS-TI TRANSELCA S.A. E.S.P.",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C50115",
+		"text": "SS-TI XM EXPERTOS EN MERCADOS ",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C50116",
+		"text": "SS-TI INTERCON. EL?CTRICA S.A. E.S.P.",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C50200",
+		"text": "CLIENTES SERVICIOS TI ",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C50300",
+		"text": "ROL MATRIZ (Nodo LATAM y otros Corporativos)",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C16481",
+		"text": "Ss-INTERNEXA -CSC (CP) ",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C16482",
+		"text": "Ss-XM-CSC (CP)  ",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C16483",
+		"text": "   Ss- SIR -CSC (CP) ",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C16484",
+		"text": "   Ss- ISA- CSC - (NCP)",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C16485",
+		"text": "   Ss- ITCO-CSC (CP)",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C16486",
+		"text": "Ss- PROYECTOS DE INFRAEST. DEL PERU -CSC (CP) ",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C16487",
+		"text": "Ss- RED DE ENERG?A DEL PER? S.A. -CSC (CP) ",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C16488",
+		"text": "Ss- INTERVIAL CHILE  -CSC (CP) ",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C16489",
+		"text": "Ss- INTERCON. EL?CTRICA ISA BOLIVIA -CSC (CP) ",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C16490",
+		"text": "Ss- INTERCHILE S.A.-CSC (CP) ",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C1633",
+		"text": "Ss-ISA-Ss Empresariales (NCP)",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C1646",
+		"text": "Ss CORPAUL -Ss Empresariales (CP)",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C1647",
+		"text": "Ss UNE- Ss Empresariales (CP)",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C1650",
+		"text": "Ss ARCANO -Ss Empresariales (CP)",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C1651",
+		"text": "Ss-ITCO-Ss Empresariales (CP)",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C1652",
+		"text": "Ss-TRANSELCA-Ss Empresariales (CP)",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C1653",
+		"text": "Ss-INTERNEXA-Ss Empresariales (CP)",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C1654",
+		"text": "Ss-XM-Ss Empresariales (CP)",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C1655",
+		"text": "Ss LOMADENTRO -Ss Empresariales (CP)",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C1656",
+		"text": "Ss SIER -Ss Empresariales (CP)",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C29010",
+		"text": "Clientes Ss Admi. No ISA",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C29020",
+		"text": "Clientes Ss Admi. ISA",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C29036",
+		"text": "Clientes Nacionales-CSC (CP)",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C30000",
+		"text": "Nodo LATAM Otras Empresas",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "C30010",
+		"text": "Nodo LATAM Participaci?n ITCO ",
+		"receptor": "Objeto de Costo"
+	}, {
+		"key": "CA030",
+		"text": "Identificar oportunidades de negocio y Estructurar negocio",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA034",
+		"text": "Evaluar y Mejorar la Gesti?n con agentes y clientes",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA035",
+		"text": "Gesti?n Responsabilidad Social Empresari",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA037",
+		"text": "Gestionar la mejora continua del negocio",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA040",
+		"text": "Liquidar y Facturar servicios",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA049",
+		"text": "Ejecutar Plan de Mtto Preventivo y predictivo ",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA0491",
+		"text": "Mtto preventivo predeterminado",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA0492",
+		"text": "Mtto preventivo Basado en Condici?n",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA050",
+		"text": "Ejecutar programa de Mtto Correctivo",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA0501",
+		"text": "Mtto correctivo Inmediato ",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA0502",
+		"text": "Mtto correctivo diferible",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA055",
+		"text": "Evaluar y controlar el mantenimiento de la red",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA059",
+		"text": "Realizar Gesti?n Regulatoria",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA061",
+		"text": "Elaborar estudios de ajustes para coordinaci?n de protecciones",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA062",
+		"text": "Realizar estudios de Planeamiento",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA063",
+		"text": "Analizar la programaci?n y coordinar las intervenciones de los activos",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA075",
+		"text": "Evaluar y mejorar el desempe?o operativo de los activos",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA076",
+		"text": "Analizar perturbaciones del sistema",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA077",
+		"text": "Evaluar la Operaci?n de la Red",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA078",
+		"text": "Gestionar los Riesgos del Negocio",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA079",
+		"text": "Elaborar Plan de Gesti?n de Riesgos Cr?ticos para el Negocio ",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA080",
+		"text": "Planear la construccion de proyectos",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA081",
+		"text": "Dise?ar Proyectos de Infraestructura",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA0811",
+		"text": "Dise?ar Proyect Infraestruct Especialist",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA0812",
+		"text": "Dise?ar Proyect Infraestruct Analista",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA083",
+		"text": "Planear la Gesti?n ambiental, social y predial  (O&M)",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA084",
+		"text": "Gestionar ambiental y socialmente los proyectos",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA0841",
+		"text": "Gest. amb y socialm proy - Especialista",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA0842",
+		"text": "Gest. amb y socialm proy - Analista",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA085",
+		"text": "Ejecutar la gesti?n Social y Ambiental ",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA086",
+		"text": "Gestionar predios y servidumbres de proyectos",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA0861",
+		"text": "Constituir servid y adquirir predi-Espec",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA0862",
+		"text": "Constituir servid y adquirir predi-Anali",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA0863",
+		"text": "Constituir servid y adq predios-Asistent",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA090",
+		"text": "Evaluar y controlar la gesti?n ambiental y social ",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA092",
+		"text": "Gerenciar Proyectos",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA0922",
+		"text": "Gestionar Info Proyectos Analista",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA097",
+		"text": "Entregar, liquidar y cerrar proyectos /Gestionar Reclamaciones",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA099",
+		"text": "Incorporar mejores pr?cticas de aprovisi",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA100",
+		"text": "Gestionar proveedores",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA102",
+		"text": "Gestionar almacenes  e Inventarios",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA104",
+		"text": "Evaluar los resultados de la Estrategia",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA108",
+		"text": "Ejecutar plan de activos/Apoyo Proyectos",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA116",
+		"text": "An?lizar el mercado",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA123",
+		"text": "Reclutar y seleccionar personal",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA124",
+		"text": "Manejar relaciones laborales individuales y colectivas ",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA124P",
+		"text": "Gestionar relaciones laborales - Proyect",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA124P",
+		"text": "Gestionar relaciones laborales    PROY",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA124T",
+		"text": "Gestionar relaciones laborales    TE",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA125",
+		"text": "Gestionar Remuneraci?n y beneficios",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA125T",
+		"text": "Gestionar Remuneraci?n y beneficios     TE",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA126",
+		"text": "Evaluar la gesti?n del desempe?o",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA126P",
+		"text": "Evaluar la gesti?n del desempe?o PI",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA126P",
+		"text": "Evaluar la gesti?n del desempe?o PI",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA126T",
+		"text": "Evaluar la gesti?n del desempe?o TE",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA128",
+		"text": "Gestionar el bienestar",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA128P",
+		"text": "Gestionar la salud integral  PROY",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA128P",
+		"text": "Gestionar la salud integral  PROY",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA128T",
+		"text": "Gestionar la salud integral  TE",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA129",
+		"text": "Gestionar el Aprendizaje y el conocimiento ",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA129T",
+		"text": "Gestionar el Aprendizaje y el conoc.TE",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA130",
+		"text": "Gestionar la estrategia del talento humano",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA130P",
+		"text": "Gest. la estrategia del talento humanoPI",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA130P",
+		"text": "Gestionar la estrategia del talento humano PROY",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA130T",
+		"text": "Gestionar la estrategia del talento humano     TE",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA131",
+		"text": "Dise?ar la organizaci?n",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA131P",
+		"text": "Disenar la organizacionPI",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA131P",
+		"text": "Dise?ar la organizaci?n     PROY",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA141",
+		"text": "Conectividad a Red y Servicios B?sicos",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA142",
+		"text": "Estaciones de Trabajo",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA143",
+		"text": " SAP",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA143P",
+		"text": "SAP - PI",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA145",
+		"text": "Brindar Servicios de Biblioteca",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA150",
+		"text": "Gestionar recursos financieros y administrar la deuda",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA153",
+		"text": "Realizar Gestion Tributaria",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA154",
+		"text": "Gestionar y Financiar riesgos",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA155",
+		"text": "Gestionar la Contabilidad",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA156",
+		"text": "Gestionar el Modelo de Costos",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA159",
+		"text": "Gestionar control externo",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA160",
+		"text": "Evaluar y medir el control interno",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA165",
+		"text": "Gestionar Contratos",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA165T",
+		"text": "Gestionar Contratos TE",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA166",
+		"text": "Analizar asuntos legales y representar a la Empresa en los procesos judiciales y tr?mites administrativos.",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA174",
+		"text": "Operar equipos de subestaciones",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA195",
+		"text": "Evaluar la gesti?n ambiental, social  y predial (O&M)",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA197",
+		"text": "Supervisar el funcionamiento de la red",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA260",
+		"text": "Realizar An?lisis preoperativos",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA261",
+		"text": "Incorporar nuevos activos al SIN  (Recepcionar proyectos )",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA262",
+		"text": "Administrar la documentaci?n",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA262T",
+		"text": "Prestar Servicios de Administraci?n Documental TE",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA264",
+		"text": "Dise?ar y planear la evaluaci?n del control interno ",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA266",
+		"text": "Estructurar insumos para ofertas de la matriz",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA266P",
+		"text": "Estructurar insumos ofertas ISA - PI",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA266P",
+		"text": "Estructurar insumos para ofertas de la matriz PI",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA266T",
+		"text": "Estructurar insumos para ofertas de la matriz TE",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA269",
+		"text": "Definir  la estrategia de la empresa",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA274",
+		"text": "Ejecutar Supervisi?n y maniobras",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA275",
+		"text": "Gestionar  Ventas y Relacionam. Clientes",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA277",
+		"text": "Ejecutar la Gesti?n Ambiental, social y predial (O&M)",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2771",
+		"text": "Ejecuci?n de la gesti?n ambiental en operaci?n y mantenimiento ",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2772",
+		"text": "Ejecuci?n de la gesti?n social en operaci?n y mantenimiento ",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2773",
+		"text": "Ejecuci?n de la gesti?n predial en mantenimiento",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2775",
+		"text": "Atenci?nRequerimientosAutori.Ambientales",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2776",
+		"text": "Activ.RelacionConEntidTerritYComunidades",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2777",
+		"text": "Atenci?n a Requerimientos de Terceros",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA278",
+		"text": "Construir proyectos de Infraestuctura",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2781",
+		"text": "Construir proyectos de Infraestuc-Gestor",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2782",
+		"text": "Construir proyectos de Infraest-Analista",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2783",
+		"text": "Construir proyectos de Infraes-Asistente",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2784",
+		"text": "Gestionar HSQ Proyectos Analista",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2785",
+		"text": "Construir proyectos de Infraestuctura",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA279",
+		"text": "Gestionar Compras",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA279T",
+		"text": "Gestionar Compras- TE",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA282",
+		"text": "Prestar servicios Generales",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA282T",
+		"text": "Prestar Servicios Log?sticos Generales - TE",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2831",
+		"text": "Funciones secretariales en CTE",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2832",
+		"text": "Vi?ticos en CTE",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2833",
+		"text": "Soporte a los recursos de salas inte CTE",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA285",
+		"text": "Gestionar las comunicaciones, reputaci?n y posicionamiento.",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA286",
+		"text": "Planear las Finanzas de ISA y realizar An?lisis Financiero ",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA286P",
+		"text": "Realizar Planeaci?n y An?lisis Fciero PI",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA286P",
+		"text": "Planear las Finanzas de ISA y realizar An?lisis Financiero PI",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA286T",
+		"text": "Planear las Finanzas de ISA y realizar An?lisis Financiero del Grupo TE",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA287",
+		"text": "Administrar los Recursos Financieros",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA287T",
+		"text": "Administrar los Recursos Financieros TE",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA288",
+		"text": "Asesorar la Asamblea, Junta y la Gesti?n corporativa societaria",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA293",
+		"text": "Realizar gesti?n Jur?dica y Contractual",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA295",
+		"text": "Planear el mantenimiento de la red",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA301",
+		"text": "Gestionar el desarrollo proyectos de infraestrutura",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA303",
+		"text": " Sistemas de Informaci?n Corporativo",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA304",
+		"text": " Sistemas de informaci?n Especializados",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA305",
+		"text": " 73000 Atenci?n a usuarios",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA306",
+		"text": " Hosting (alojamiento en servidor)",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA307",
+		"text": " Collocation (espacio f?sico centro c?mp)",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA0341",
+		"text": "Gest. La Mejora Contin.Y la Opt.Serv.CSC",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA0401",
+		"text": "Gestio. la relaci?n con los clientes CSC",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA0491",
+		"text": "Mtto Preventivo Predeterminado",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA049T",
+		"text": "Ejecutar  Mtto Prevent y predictivo-Terc",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA0841",
+		"text": "Gest. amb y socialm proy - Especialista",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA0842",
+		"text": "Gest. amb y socialm proy - Analista",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA0861",
+		"text": "Constituir servid y adquirir predi-Espec",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA0862",
+		"text": "Constituir servid y adquirir predi-Anali",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA097",
+		"text": "Cerrar Proyectos Director",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA0971",
+		"text": "Cerrar Proyectos Gestor",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA0972",
+		"text": "Cerrar Proyectos Analista",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA0973",
+		"text": "Cerrar Proyectos Asistente",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA109",
+		"text": "Planear la renovaci?n de los activos",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA110",
+		"text": "Evaluar la Renovaci?n de los Activos",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA111",
+		"text": "Realizar disposici?n final de losActivos",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA1231",
+		"text": "Reclutar el Talento",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA1232",
+		"text": "Gestionar la Vinculaci?n",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA1241",
+		"text": "Gestionar la Desvinculaci?n",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA1242",
+		"text": "Gestionar la Movilidad de los empleados",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA1251",
+		"text": "Ejecutar novedades de personal y organiz",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA1252",
+		"text": "Gestionar  y administrar los beneficios",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA1253",
+		"text": "Realizar proceso de n?mina",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA1291",
+		"text": "Gestionar la Inducci?n",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA1292",
+		"text": "Coordinar log?stica de aprendizaje",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA1351",
+		"text": "Coordinar log?stica de Bienestar",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA144",
+		"text": "Construir y adaptar soluc.inform-No SAP",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA170",
+		"text": "Planear los Servicios Generales",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA171",
+		"text": "Evaluar y Mejorar los  Servic. Generales",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA172",
+		"text": "Prestar Soporte Adtivo de Serv.Generales",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA175",
+		"text": "Planear los Servicios TO",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA176",
+		"text": "Evaluar y Mejorar los  Servicios TO",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA177",
+		"text": "Prestar Soporte Administrativo Servi.TO",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA261",
+		"text": "Incorpor.nuevos activos al SIN(Recep.Pro",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2621",
+		"text": "Suministrar servicio de Mensajer?a",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2622",
+		"text": "Suminis. Servicio de Gesti?n Documental",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA263T",
+		"text": "Definir lineam.Gestion corpor.Grupos iTE",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2781",
+		"text": "Construir proyectos de Infraestuc-Gestor",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2782",
+		"text": "Construir proyectos de Infraest-Analista",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2783",
+		"text": "Construir proyectos de Infraes-Asistente",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2785",
+		"text": "Construir proyectos de Infraestuctura",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2820",
+		"text": "Suministrar servicio de Aseo y Cafeter?a",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2821",
+		"text": "Suministrar servicio de Alimentaci?n",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2822",
+		"text": "Suministrar Servicio de Gesti?n deViajes",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2823",
+		"text": "Suministrar servicio de Papeler?a",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2824",
+		"text": "Suministrar servicio de Salas internas y",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2825",
+		"text": "Suministrar Servicio de Transporte",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2826",
+		"text": "Suministrar servicio de Mantenimiento",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2827",
+		"text": "Suministrar Servicio de Facturaci?n",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2828",
+		"text": "Suminis. Servicio de Gest.de MueblYEnser",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA2829",
+		"text": "Suminis. Servicio de Administ.de Inmuebl",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA284",
+		"text": "Asegurar soluciones informaticas",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA308",
+		"text": "Gestionar la Tecnolog?a Corporativa",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA309",
+		"text": "Alinear, planear y organizar la tecnolog?a informaci?n",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA310",
+		"text": "Construir, adquirir e implementar la tecnolog?a informaci?n",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA311",
+		"text": "Entregar servicio y dar soporte a la tecnolog?a informaci?n",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA312",
+		"text": "Monitorear, Evaluar y Valorar",
+		"receptor ": "Proceso emp. / Act.ABC"
+	}, {
+		"key": "CA313",
+		"text": "SAP",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA314",
+		"text": "Redes",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA315",
+		"text": "Estaciones deTrabajo",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA316",
+		"text": "Hosting",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA317",
+		"text": "Collocation",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA318",
+		"text": "Aplicaciones",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA3101",
+		"text": "Construir SAP",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA3102",
+		"text": "Construir Redes",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA3103",
+		"text": "Construir Estaciones deTrabajo",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA3104",
+		"text": "Construir Hosting",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA3105",
+		"text": "Construir Collocation",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA3106",
+		"text": "Construir Aplicaciones",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA3113",
+		"text": "Entregar Servicio SAP",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA3114",
+		"text": "Entregar Servicio Redes",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA3115",
+		"text": "Entregar Servicio Estaciones deTrabajo",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA3116",
+		"text": "Entregar Servicio Hosting",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA3117",
+		"text": "Entregar Servicio Collocation",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "CA3118",
+		"text": "Entregar Servicio Aplicaciones",
+		"receptor": "Proceso emp./ Act. ABC"
+	}, {
+		"key": "C3111",
+		"text": "Gerencia Proyectos",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C3113",
+		"text": "Integracion y Desarrollo ",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C3211",
+		"text": "Direcci?n Ejecuci?n Proyectos Centro Sur",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C3213",
+		"text": "Gesti?n proyectos Centro Sur",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C3214",
+		"text": "Ingenier?a  Proyectos",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C3313",
+		"text": "Gesti?n Predial (O&M)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C3220",
+		"text": "Direcci?n Ejecuci?n Proyectos Norte",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C3221",
+		"text": "Gesti?n proyectos Norte",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C3311",
+		"text": "Direcci?n Sostenibilidad ",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C3312",
+		"text": "Gesti?n ambiental (O&M&P)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C3317",
+		"text": "Gesti?n Social (O&M&P)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C3315",
+		"text": "Estudios y licenciamiento Ambiental",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C3316",
+		"text": "Planeaci?n e Integraci?n",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C1316",
+		"text": "Gesti?n RSE",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4111",
+		"text": "Gerencia Operaciones",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C1314",
+		"text": "Gestionar Agentes y Clientes   ",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4112",
+		"text": "Gesti?n Gastos del Negocio",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4135",
+		"text": "Gesti?n Ambiental (O&M)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4136",
+		"text": "Gesti?n Social (O&M)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4137",
+		"text": "Gesti?n Predial  (O&M)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4121",
+		"text": "Riesgos SocioPol?ticos",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4220",
+		"text": "Renovar y realizar la disposici?n final de los activos",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4210",
+		"text": "Dir.Gesti?n de Mantenimiento",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4211",
+		"text": "Planeaci?n de Mantenimiento",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4212",
+		"text": "Evaluaci?n de Mantenimiento",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4213",
+		"text": "Subestaciones",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4216",
+		"text": "SPA y Telecomunicaciones",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4217",
+		"text": "L?neas",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4311",
+		"text": "Dir. de la Operaci?n",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4312",
+		"text": "An?lisis Operativo",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4313",
+		"text": "Estudios de Planeamiento",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4314",
+		"text": "Centro de Supervisi?n y Maniobras",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4411",
+		"text": "Dir.CTE Centro",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4412",
+		"text": "CEN-Coord. Administrativa",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4413",
+		"text": "CEN-Mtto L?neas",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4414",
+		"text": "CEN-Mtto Subestaciones",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4415",
+		"text": "CEN-Mtto SPAT",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4416",
+		"text": "CEN-Operaci?n S/E",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4511",
+		"text": "Dir.CTE Oriente",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4512",
+		"text": "ORI-Coord. Administrativa",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4513",
+		"text": "ORI-Mtto L?neas",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4514",
+		"text": "ORI-Mtto Subestaciones",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4515",
+		"text": "ORI-Mtto SPAT",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4516",
+		"text": "ORI-Operaci?n S/E",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4611",
+		"text": "Dir.CTE Suroccidente",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4612",
+		"text": "SUR-Coord. Administrativa",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4613",
+		"text": "SUR-Mtto L?neas",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4614",
+		"text": "SUR-Mtto Subestaciones",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4615",
+		"text": "SUR-Mtto SPAT",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4616",
+		"text": "SUR-Operaci?n S/E",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4711",
+		"text": "Dir.CTE Noroccidente",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4712",
+		"text": "NOR-Coord. Administrativa",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4713",
+		"text": "NOR-Mtto L?neas",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4714",
+		"text": "NOR-Mtto Subestaciones",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4715",
+		"text": "NOR-Mtto SPAT",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4716",
+		"text": "NOR-Operaci?n S/E",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C1119",
+		"text": "Gerencia General CEO (NCP)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C1319",
+		"text": "Direcci?n Estrategia  (NCP)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C1419",
+		"text": "Direcci?n Humana y Organizacional (NCP)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C1619",
+		"text": "Gcia. Centro de Servicios Compartidos - CSC",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C1719",
+		"text": "Direcci?n Jur?dica (NCP)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C1819",
+		"text": "Direcci?n Auditor?a (NCP)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C1919",
+		"text": "Gerencia Financiera (NCP)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C1929",
+		"text": "Direcci?n Planeaci?n y Control (NCP)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C1939",
+		"text": "Coordinaci?n Tesorer?a y Finanzas (NCP)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C1949",
+		"text": "Direcci?n Contabilidad e Impuestos (NCP)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C2019",
+		"text": "Direcci?n Comunicaciones (NCP)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C3119",
+		"text": "Gerencia Proyectos (NCP)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C3219",
+		"text": "Direccion Ejecucion Proyectos (NCP)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C3319",
+		"text": "Direcci?n Ambiental y Predial (NCP)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4119",
+		"text": "Gerencia Operaciones (NCP)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4219",
+		"text": "Dir.Gesti?n de Mantenimiento (NCP)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4319",
+		"text": "Dir.Gesti?n de la Operaci?n (NCP)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4419",
+		"text": "Dir.CTE Centro (NCP)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4519",
+		"text": "Dir.CTE Oriente (NCP)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4619",
+		"text": "Dir.CTE Suroccidente (NCP)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "C4719",
+		"text": "Dir.CTE Noroccidente (NCP)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CUP0107",
+		"text": "USO UPME  01-07 Porce",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CUP0103",
+		"text": "Uso UPME  01-03 Primavera-Bacat?",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CUP0199",
+		"text": "Uso UPME  01-99 Guati-Prima-Tasa",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CUP0203",
+		"text": "Uso UPME  02-03 Bol?var - Copey",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CUP0208",
+		"text": "Uso UPME  02-08 El Bosque",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CUP0210",
+		"text": "Uso UPME   02-10 Termocol",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CUP0299",
+		"text": "Uso UPME  02-99 Sabana-Bol?var",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CUP0409",
+		"text": "Uso UPME  04-09 Sogamoso",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CUP0213",
+		"text": "Uso UPME 0213- SEGUNDO TRANSFORMADOR COPEY",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CUP0214",
+		"text": "Uso UPME 0214- REFORMA",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CUP0713",
+		"text": "Uso UPMES  07-13 Monter?a",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CUP0613",
+		"text": "Uso UPME 0613-CARACOL? (SOLEDAD)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CUP0814",
+		"text": "Uso UPME 0814-EXPANSI?N S/E. VALLEDUPAR",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CUP0915",
+		"text": "Uso UPME 0915- CARTAGO 230 KV",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CUP0514",
+		"text": "UPME 0514- REFUERZO COSTA CARIBE 500 KV",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CUP0316",
+		"text": " Uso UPME 03-16 SAN ANTONIO",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CUP0314",
+		"text": "UPME 0314-SUBESTACIONES ITUANGO-MEDELLIN",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CUP0117",
+		"text": "UPME 0117-BABO (Bah?a Bosque 220 kV)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CUP0118",
+		"text": "UPME 01-2018 - Segundo Transformador Oca",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CUP0817",
+		"text": " UPME 0817-SOTR (3er Trafo Sogamoso)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CUP0916",
+		"text": " UPME 0916-COCU (2?Refu.COP-CUES y COP-FUND) ",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CUP0618",
+		"text": " UPME 0618-TRIO (S/E El R?o 220 KV)",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CASUR230-M",
+		"text": "M-Ancon Sur 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CANCO230-M",
+		"text": "M-Anc?n Sur 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CBACA230-M",
+		"text": "M-BACA230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CBACA500-M",
+		"text": "M-BACA500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CBANA230-M",
+		"text": "M-Banadia 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CBETA115-M",
+		"text": "M-Betania 115",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CBETA230-M",
+		"text": "M-Betania 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CBOLI220-M",
+		"text": "M-BOLI220",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CBOLI500-M",
+		"text": "M-BOLI500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCCOL220-M",
+		"text": "M-Caracoli220",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCARI230-M",
+		"text": "M-Caricare 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCART230-M",
+		"text": "M-Cartago 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCLIM230-M",
+		"text": "M-Cano Limon 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CANTI500-M",
+		"text": "M-Antioqu?a 500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCERR230-M",
+		"text": "M-Cerro 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCERR500-M",
+		"text": "M-Cerro 500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCHIN230-M",
+		"text": "M-Chinu 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCHIN500-M",
+		"text": "M-Chinu 500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CMEDE500-M",
+		"text": "M-Medell?n 500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CMEDE230-M",
+		"text": "M-Medell?n 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCHIV230-M",
+		"text": "M-Chivor 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCHIV013-M",
+		"text": "M-Chivor 13.8",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCOMU230-M",
+		"text": "M-Comuneros 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCOPE220-M",
+		"text": "M-COPE220",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCOPE500-M",
+		"text": "M-COPE500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCUES230-M",
+		"text": "M-Cuestecitas 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CEBOS220-M",
+		"text": "M-El Bosque 220",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CESME230-M",
+		"text": "M-Esmeralda 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CGTPE230-M",
+		"text": "M-Guatape 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CGUAT230-M",
+		"text": "M-Guatiguara 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CIBAG230-M",
+		"text": "M-Ibague 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CJAGU230-M",
+		"text": "M-Jaguas 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CJAMO230-M",
+		"text": "M-Jamondino 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CJUAN230-M",
+		"text": "M-Juanchito 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CLCIR230-M",
+		"text": "M-LCIR230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CLENE230-M",
+		"text": "M-La Enea 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CLHER230-M",
+		"text": "M-La Hermosa 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CLMES230-M",
+		"text": "M-La Mesa 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CLREF230-M",
+		"text": "M-La Reforma 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CLSIE230-M",
+		"text": "M-La Sierra 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CLVIR230-M",
+		"text": "M-La Virginia 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CLVIR500-M",
+		"text": "M-La Virginia 500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CLPAL230-M",
+		"text": "M-Los Palos 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CMIEL230-M",
+		"text": "M-Miel I 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CMRIA230-M",
+		"text": "M-Monter?a 230 KV",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "COCAN230-M",
+		"text": "M-Ocana 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "COCAN500-M",
+		"text": "M-OCAN500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CPAEZ230-M",
+		"text": "M-Paez 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CPANA230-M",
+		"text": "M-Panamericana",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CPLAY230-M",
+		"text": "M-Playas 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CPORC500-M",
+		"text": "M-Porce 500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CPRIM230-M",
+		"text": "M-Primavera 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CPRIM500-M",
+		"text": "M-PRIM500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CPURN230-M",
+		"text": "M-Purnio 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSABA220-M",
+		"text": "M-Sabana 220",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSABA500-M",
+		"text": "M-Sabana 500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSAMO230-M",
+		"text": "M-Samore 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSBER230-M",
+		"text": "M-San Bernardino 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSCAR230-M",
+		"text": "M-San Carlos 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSCAR500-M",
+		"text": "M-San Carlos 500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSFEL230-M",
+		"text": "M-San Felipe 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSMAR230-M",
+		"text": "M-San Marcos 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSMAR500-M",
+		"text": "M-San Marcos 500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSMAT230-M",
+		"text": "M-San Mateo 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSOCH230-M",
+		"text": "M-Sochagota 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSOGA230-M",
+		"text": "M-Sogamoso 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSOGA500-M",
+		"text": "M-Sogamoso 500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CTASA230-M",
+		"text": "M-Tasajero 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CTCOL230-M",
+		"text": "M-TCOL230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CTFLO220-M",
+		"text": "M-Termoflores220",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CTOLE230-M",
+		"text": "M-Toledo 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CTORC230-M",
+		"text": "M-Torca 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CURAB230-M",
+		"text": "M-Uraba 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CURRA230-M",
+		"text": "M-Urra 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CVALL220-M",
+		"text": "M-Valledupar 220",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CYUMB230-M",
+		"text": "M-Yumbo 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CGECE110-M",
+		"text": "M-Gecelca 110",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCE32110-M",
+		"text": "M-Cerromatoso 32 110",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCERR110-M",
+		"text": "M-Cerromatoso 110",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSANA230-M",
+		"text": "M-San Anton?o 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSABA034-M",
+		"text": "M-Sabana034",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CTIUM034-M",
+		"text": "M-Ternium 034",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CASUR230-O",
+		"text": "O-Ancon Sur 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CANCO230-O",
+		"text": "O-Anc?n Sur 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CBACA230-O",
+		"text": "O-BACA230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CBACA500-O",
+		"text": "O-BACA500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CBANA230-O",
+		"text": "O-Banadia 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CBARR230-O",
+		"text": "O-Barrancabermeja 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CBETA115-O",
+		"text": "O-Betania 115",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CBETA230-O",
+		"text": "O-Betania 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CBOLI220-O",
+		"text": "O-BOLI220",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CBOLI500-O",
+		"text": "O-BOLI500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCCOL220-O",
+		"text": "O-Caracoli220",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCARI230-O",
+		"text": "O-Cariare 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCART230-O",
+		"text": "O-Cartago 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCLIM230-O",
+		"text": "O-Cano Limon 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CANTI500-O",
+		"text": "O-Antioqu?a 500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCERR230-O",
+		"text": "O-Cerro 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCERR500-O",
+		"text": "O-Cerro 500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCHIN230-O",
+		"text": "O-Chinu 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCHIN500-O",
+		"text": "O-Chinu 500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CMEDE500-O",
+		"text": "O-Medell?n 500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CMEDE230-O",
+		"text": "O-Medell?n 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCHIV230-O",
+		"text": "O-Chivor 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCHIV013-O",
+		"text": "O-Chivor 13.8",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCOMU230-O",
+		"text": "O-Comuneros 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCOPE220-O",
+		"text": "O-COPE220",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCOPE500-O",
+		"text": "O-COPE500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCUES230-O",
+		"text": "O-Cuestecitas 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CEBOS220-O",
+		"text": "O-El Bosque 220",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CESME230-O",
+		"text": "O-Esmeralda 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CFUND220-O",
+		"text": "O-Fundacion 220",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CGTPE230-O",
+		"text": "O-Guatape 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CGUAT230-O",
+		"text": "O-Guatiguara 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CIBAG230-O",
+		"text": "O-Ibague 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CJAGU230-O",
+		"text": "O-Jaguas 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CJAMO230-O",
+		"text": "O-Jamondino 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CJUAN230-O",
+		"text": "O-Juanchito 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CLCIR230-O",
+		"text": "O-LCIR230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CLENE230-O",
+		"text": "O-La Enea 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CLHER230-O",
+		"text": "O-La Hermosa 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CLMES230-O",
+		"text": "O-La Mesa 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CLREF230-O",
+		"text": "O-La Reforma 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CLSIE230-O",
+		"text": "O-La Sierra 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CLVIR230-O",
+		"text": "O-La Virginia 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CLVIR500-O",
+		"text": "O-La Virginia 500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CLPAL230-O",
+		"text": "O-Los Palos 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CMIEL230-O",
+		"text": "O-Miel I  230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CMRIA230-O",
+		"text": "O-Monter?a 230 KV",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "COCAN230-O",
+		"text": "O-Ocana 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "COCAN500-O",
+		"text": "O-OCAN500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CPAEZ230-O",
+		"text": "O-Paez 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CPANA230-O",
+		"text": "O-Panamericana",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CPLAY230-O",
+		"text": "O-Playas 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CPORC500-O",
+		"text": "O-Porce 500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CPRIM230-O",
+		"text": "O-Primavera 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CPRIM500-O",
+		"text": "O-PRIM500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CPURN230-O",
+		"text": "O-Purnio 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSABA220-O",
+		"text": "O-Sabana 220",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSABA500-O",
+		"text": "O-Sabana 500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSAMO230-O",
+		"text": "O-Samore 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSBER230-O",
+		"text": "O-San Bernardino 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSCAR230-O",
+		"text": "O-San Carlos 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSCAR500-O",
+		"text": "O-San Carlos 500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSFEL230-O",
+		"text": "O-San Felipe 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSMAR230-O",
+		"text": "O-San Marcos 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSMAR500-O",
+		"text": "O-San Marcos 500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSMAT230-O",
+		"text": "O-San Mateo 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSOCH230-O",
+		"text": "O-Sochagota 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSOGA230-O",
+		"text": "O-Sogamoso 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSOGA500-O",
+		"text": "O-Sogamoso 500",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CTASA230-O",
+		"text": "O-Tasajero 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CTCAR220-O",
+		"text": "O-Termocartagena 220",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CTCOL230-O",
+		"text": "O-TCOL230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CTFLO220-O",
+		"text": "O-Termoflores220",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CTOLE230-O",
+		"text": "O-Toledo 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CTORC230-O",
+		"text": "O-Torca 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CURAB230-O",
+		"text": "O-Uraba 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CURRA230-O",
+		"text": "O-Urra 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CVALL220-O",
+		"text": "O-Valledupar 220",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CYUMB230-O",
+		"text": "O-Yumbo 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CGECE110-O",
+		"text": "O-Gecelca 110",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCE32110-O",
+		"text": "O-Cerromatoso 32 110",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CCERR110-O",
+		"text": "O-Cerromatoso 110",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSANA230-O",
+		"text": "O-San Anton?o 230",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CSABA034-O",
+		"text": "O-Sabana034",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "CTIUM034-O",
+		"text": "O-Ternium 034",
+		"receptor": "Centro de Costo"
+	}, {
+		"key": "35800000",
+		"text": "Adecuaci?n Autotrafo 230/115",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800001",
+		"text": "Adecuaci?n Autotrafo 230/115",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800002",
+		"text": "Adecuaci?n Autotrafo 230/115 Reserva",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800003",
+		"text": "Construir variante T161 erosi?n r?o OPON",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800005",
+		"text": "Recimentaci?n torre 160",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800006",
+		"text": "Instalar MOXA y RUGGEDCOM",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800007",
+		"text": "Instalar moxa San Marcos",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800008",
+		"text": "Instalar SAGES PC de Gesti?n La Hermosa",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800009",
+		"text": "Instalar SAGES PC de Gesti?n Comuneros",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800011",
+		"text": "Instalar MOXA La Virg230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800012",
+		"text": "Instalar MOXA Guatape",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800013",
+		"text": "Instalar SAGES PC de Gesti?n Los Palos",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800014",
+		"text": "Instalar SAGES PC de Gesti?n Tasajero",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800015",
+		"text": "Instalar SAGES PC de Gesti?n La Virg500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800016",
+		"text": "Instalar SAGES PC de Gesti?n Bolivar500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800017",
+		"text": "Instalar SAGES PC de Gesti?n Bolivar220",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800018",
+		"text": "Instalar MOXA Chin?",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800019",
+		"text": "Instalar MOXA Playas",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800020",
+		"text": "Instalar MOXA Jamondino",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800021",
+		"text": "Instalar SAGES PC de Gesti?n Cuestecitas",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800022",
+		"text": "Instalar SAGES PC de Gesti?n Chivor",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800023",
+		"text": "Overhaul interruptores 2014_GastosTaller",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800024",
+		"text": "Instalar SAGES PC de Gesti?n Copey500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800025",
+		"text": "Instalar MOXA Cerr500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800026",
+		"text": "Montar Moxa, Snifer, Inversor, conversor",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800027",
+		"text": "Instalar MOXA Jaguas",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800028",
+		"text": "Instalar Componentes SAGES PC de Gesti?n",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800029",
+		"text": "Instalar SAGES PC de Gesti?n Betania230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800030",
+		"text": "Instalar MOXA en Betania115",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800031",
+		"text": "Instalar moxa Yumbo",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800032",
+		"text": "Instalar MOXA  La Esmeralda",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800033",
+		"text": "Instalar MOXA La Enea",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800034",
+		"text": "Instalar y PES proyecto SAGES Ca?o Lim?n",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800035",
+		"text": "Instalar y PES proyecto SAGES Caricare",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800036",
+		"text": "Instalar y PES proyecto SAGES Banadia230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800037",
+		"text": "Instalar SAGES PC de Gesti?n Samor?",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800038",
+		"text": "Instalar y PES proyecto SAGES San Mateo",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800039",
+		"text": "Instalar y PES proyecto SAGES Toledo",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800040",
+		"text": "Constuir variante T111",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800043",
+		"text": "Protecci?n anticorrosiva en torres",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800044",
+		"text": "Pintura de torres T101 a 126",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800048",
+		"text": "Construcci?n variante T881",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800049",
+		"text": "POA-Montaje rel?s sobrecorriente",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800050",
+		"text": "POA-Montaje reactores de terciario",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800051",
+		"text": "POA-Montaje reactor de terciario",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800052",
+		"text": "POA-Montaje rel?s 50/51 y 87 terciario",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800053",
+		"text": "POA-Montaje Reles playas",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800054",
+		"text": "Disponible",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800055",
+		"text": "POA-Montaje reles Guatap?-Jaguas 1",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800056",
+		"text": "POA-Montaje-Rele 21-ESQPR-L27BL-GTPE230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800057",
+		"text": "POA-Montaje rel? San Marcos-La Virginia",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800059",
+		"text": "POA-Montaje inversor Sochagota",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800061",
+		"text": "POA-Montaje medidores La Reforma",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800062",
+		"text": "POA-Montar registrador de fallas Samor?",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800063",
+		"text": "Proyecto Sogamoso-Materiales",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800064",
+		"text": "POA-Montaje rel? Purnio-La Sierra 1",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800065",
+		"text": "POA-Montaje rel? Purnio-Noroeste 1",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800066",
+		"text": "POA-Montaje rel? Purnio-Noroeste 2",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800067",
+		"text": "POA-Montaje rel? Purnio-La Sierra 2",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800068",
+		"text": "POA-Montar registradores de fallas Chin?",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800069",
+		"text": "Overhaul Interrup ABB CERR500 - Montaje",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800071",
+		"text": "Overhaul Autotrafos ATR1 Chinu - 2014",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800072",
+		"text": "POA-Montaje sistema filtrado OLTC ATR1",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800073",
+		"text": "POA-Montaje sist filtrado OLTC ATR2 CLIM",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800074",
+		"text": "POA-Montaje sist filtrado OLTCTR1 SAMORE",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800075",
+		"text": "POA-Montaje sist filtrado OLTC TR1 CLIM",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800077",
+		"text": "Instalar MOXA La Reforma",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800078",
+		"text": "Construcci?n variante T239 y T240",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800079",
+		"text": "POA-Renovaci?n Servicios Auxiliares MIEL",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800080",
+		"text": "POA-Renovaci?n Servicios Auxiliares SMAR",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800081",
+		"text": "POA-Rel? sobrecte reactor terciario 2",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800082",
+		"text": "POA-Rel? sobrecte reactor de terciario",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800083",
+		"text": "POA-Montaje Rel? 21 IBAG230L19BL",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800084",
+		"text": "Overhaul Interrup HPL ASUR230 - Montaje",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800085",
+		"text": "Overhaul Interrup ABB CHIN500 - Montaje",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800086",
+		"text": "Overhaul Interrup ABB SCAR500 - Montaje",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800087",
+		"text": "Pintura de torres 983 a 1087 105 Torres",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800088",
+		"text": "Instalar MOXA Panamericana",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800089",
+		"text": "Instalar MOXA San Bernardino",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800090",
+		"text": "Instalar MOXA P?ez",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800091",
+		"text": "POA-Montar teleprotecci?n Com-Prim1",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800092",
+		"text": "POA-Montar Teleprotecci?n COMU-PRIM2",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800093",
+		"text": "POA-Montar teleprotecci?n PRIM-COMU1",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800094",
+		"text": "POA-Montar Teleprotecci?n PRIM-COMU2",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800095",
+		"text": "Instalar MOXA Urra",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800096",
+		"text": "Instalar MOXA Urab?",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800097",
+		"text": "Instalar MOXA Sabanalarga",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800098",
+		"text": "Instalar MOXA San Carlos",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800099",
+		"text": "Construir Variante T262 SC VIR-2014-penc",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800100",
+		"text": "Instalar MOXA en Bacata500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800101",
+		"text": "Instalar MOXA en Bacata230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800102",
+		"text": "Instalar MOXA en Ibague",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800103",
+		"text": "Instalar MOXA La Miel",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800104",
+		"text": "Implementar MOXA Torca",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800105",
+		"text": "Implementar MOXA en Sochagota",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800106",
+		"text": "Instalar MOXA en Purnio",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800107",
+		"text": "Instalar-PES Red Gesti?n x SAGES OCAN500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800108",
+		"text": "Instalar-PES Red Gesti?n x SAGES OCAN230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800109",
+		"text": "Instalar-PES Red Gesti?n x SAGES PRIM500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800110",
+		"text": "Instalar-PES Red Gesti?n x SAGES PRIM230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800111",
+		"text": "Instalar-PES Red Gesti?n x SAGES GUAT230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800112",
+		"text": "Instalar-PES Red Gesti?n x SAGES LCIR230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800113",
+		"text": "Instalar-PES Red Gesti?n x SAGES LSIE230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800114",
+		"text": "Instalar y PES proyecto SAGES Comuneros",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800115",
+		"text": "Instalar y PES proyecto SAGES Los Palos",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800120",
+		"text": "Instalar y PES proyecto SAGES Tasajero",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800123",
+		"text": "POA-ATR 150 MVA 500/230 La Virginia",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800124",
+		"text": "POA-Montaje rel?s de terciario",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800125",
+		"text": "POA-Montar teleprotecci?n PRIM-PLAYAS",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800126",
+		"text": "POA-Proyecto ATR1 Jamondino",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800127",
+		"text": "POA-Interruptor R290",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800128",
+		"text": "POA-Proyecto reactores Chin?-copey",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800129",
+		"text": "POA-Instalar PQsensor y medir arm?nicos",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800130",
+		"text": "POA-Instalar PQsensor y medir arm?nicos",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800131",
+		"text": "Adecuaci?n Autotrafo 230/115 Reserva",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800132",
+		"text": "Autotrafo 50 MVA Cerro 500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800133",
+		"text": "POA-Renovaci?n Servicios Auxiliares CERR",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800134",
+		"text": "POA-Renovaci?n protecciones bah?a ATR1 C",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800135",
+		"text": "POA-Monitoreo de bujes",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800136",
+		"text": "POA-Montaje PT?s de Barra La Mesa",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800137",
+		"text": "POA-Montaje PT?s de Barra San Marcos",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800138",
+		"text": "POA-Montaje PT Barra 1 Samor?",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800139",
+		"text": "POA-Cambiar  interruptor L140 Torca",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800140",
+		"text": "Instalar moxa San Marcos 230kV",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800142",
+		"text": "POA-Visitas S/E CTE NW 2a fase SSAA",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800143",
+		"text": "POA-Visitas S/E CTE NW 2a fase SSAA",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800144",
+		"text": "ORDEN CREADA POR ERROR NO CARGAR COSTO",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800145",
+		"text": "RENOVAR PROTECCIONES LVIR",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800146",
+		"text": "Construcci?n Bah?a en Betania",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800148",
+		"text": "POA-Inversor 125VDC/120AC 1000 VA Sabana",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800149",
+		"text": "Cambio prot. diferencial reactor terc SM",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800150",
+		"text": "POA-Montar registrador de fallas TR1630",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800152",
+		"text": "Placas de se?alizaci?n Sogamoso",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800153",
+		"text": "POA-Montaje registradore de fallas Cerro",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800154",
+		"text": "Overhaul interruptor LHER230-Montaje",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800155",
+		"text": "Cambio interruptor SBER230-Montaje",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800156",
+		"text": "Cambio interruptor SBER230-Montaje",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800157",
+		"text": "Overhaul interruptor SBER230-Montaje",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800158",
+		"text": "Cambio interruptor YUMB230-Montaje",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800159",
+		"text": "Cambio interruptor YUMB230-Montaje",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800160",
+		"text": "Cambio interruptor ESME230-Montaje",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800161",
+		"text": "POA-Monitoreo de bujes",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800162",
+		"text": "POA-Montaje suiche red gestion 34,5 kV",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800163",
+		"text": "POA-Montaje rel? 287 Samor?",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800164",
+		"text": "POA-Montaje reactores Oca?a",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800165",
+		"text": "Montar Registrador de falla Chinu1-ATR2",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800166",
+		"text": "POA-Montaje registradores de fallas ESME",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800167",
+		"text": "POA-Montaje registradores de fallas SCAR",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800168",
+		"text": "POA-Montaje medidores Oca?a",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800169",
+		"text": "POA-Montaje medidores Toledo",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800170",
+		"text": "POA-Montaje medidores Samor?",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800171",
+		"text": "POA-Visita condensadores San Marcos CP2",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800172",
+		"text": "Proyecto SAS La Virginia",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800173",
+		"text": "POA-Servicios Auxiliares-SABA034",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800174",
+		"text": "POA-Montaje medidores Comuneros",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800175",
+		"text": "POA-Reactor de 20 MVAR La Virginia",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800176",
+		"text": "POA-Renovaci?n Servicios Auxiliares LVIR",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800177",
+		"text": "Autotrafo 50 MVA Chin? 500 kV",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800178",
+		"text": "POA-Renovaci?n Servicios Auxiliares MIEL",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800179",
+		"text": "POA-Montaje Reles-BT LVIR230-ATR1",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800180",
+		"text": "POA-Montaje Reles-BL LVIR230-LHER",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800181",
+		"text": "POA-Montaje Reles-BL LVIR230-M040",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800182",
+		"text": "POA-Montaje Reles-BT LVIR230-ATR2",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800183",
+		"text": "POA-Montaje Reles-BL LVIR230-FUTURO",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800184",
+		"text": "POA-Montaje Reles-BL LVIR230-M080",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800185",
+		"text": "POA-Montaje Reles-BL LVIR230-ESME1",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800186",
+		"text": "POA-Montaje Reles-BL LVIR230-CARTAGO",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800187",
+		"text": "POA-Montaje Reles-BL LVIR230-M060",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800188",
+		"text": "POA-Montaje Reles-BL LVIR500-SMAR1",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800189",
+		"text": "POA-Montaje Reles-BL LVIR500-M030",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800190",
+		"text": "POA-Montaje Reles-BL LVIR230-ESME2",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800191",
+		"text": "POA-Montaje Reles-BL LVIR230-SMAR1",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800192",
+		"text": "POA-Montaje Reles-BL LVIR230-M050",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800193",
+		"text": "POA-Montaje Reles-BC LVIR500-RL_SMAR1",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800194",
+		"text": "POA-Montaje Reles-MC LVIR500-RL_SMAR1",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800195",
+		"text": "POA-Montaje SAS-BT LVIR500-ATR2-BAHIA",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800196",
+		"text": "POA-Montaje SAS-BT LVIR500-ATR2-TRAFO",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800197",
+		"text": "POA-Montaje SAS-BL LVIR500-SCAR1",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800198",
+		"text": "POA-Montaje SAS-BC LVIR500-RL_SCAR1",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800199",
+		"text": "POA-Montaje SAS-BL LVIR500-M020",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800200",
+		"text": "POA-Montaje Control LVIR034A21BT",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800201",
+		"text": "POA-Montaje Control LVIR230MCOMU-SAUX1",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800202",
+		"text": "Overhaul interruptor COMU230-Montaje",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800203",
+		"text": "POA-Instalar interruptor CLIM034T11B",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800204",
+		"text": "POA-Instalar interruptor CLIM034T19BT",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800206",
+		"text": "POA-Instalar interruptor BANA034L12BL",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800207",
+		"text": "POA-Instalar interruptor BANA034L14BL",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800208",
+		"text": "Disponible",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800209",
+		"text": "POA-Renovaci?n Banco Paralelo 2 SMAR",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800210",
+		"text": "Disponible",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800211",
+		"text": "Disponible",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800212",
+		"text": "Disponible",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800213",
+		"text": "POA-Montaje sistema de filtrado Trafo 1",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800214",
+		"text": "POA-Montaje sistema de filtrado ATR 1",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800215",
+		"text": "POA-Visita Torca 2a Fase SSAA",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800216",
+		"text": "POA-Visita San Felipe 2a Fase SSAA",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800217",
+		"text": "POA-Montaje-INTER-M030-CHIN500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800220",
+		"text": "POA-Montaje-INTER-L140-LMES230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800221",
+		"text": "POA-Montaje-INTER-L190-IBAG230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800222",
+		"text": "POA-Montaje-INTER-L210-IBAG230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800223",
+		"text": "POA-Montaje-INTER-B200-IBAG230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800224",
+		"text": "POA-Montaje-INTER-L140-SMAR230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800225",
+		"text": "POA-Montaje-INTER-L130-SMAR230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800226",
+		"text": "POA-Montaje-INTER-L230-SMAR230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800227",
+		"text": "POA-Montaje-INTER-L240-SMAR230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800228",
+		"text": "POA-Montaje-INTER-M040-SMAR230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800229",
+		"text": "POA-Montaje-INTER-M030-SMAR230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800230",
+		"text": "POA-Montaje-INTER-L190-YUMB230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800231",
+		"text": "POA-Montaje-INTER-L150-CHIV230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800232",
+		"text": "POA-Montaje-INTER-L170-CHIV230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800233",
+		"text": "POA-Montaje-INTER-B100-CHIV230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800234",
+		"text": "POA-Montaje-INTER-L230-SBER230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800235",
+		"text": "POA-Montaje-INTER-L250-SBER230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800236",
+		"text": "POA-Montaje-INTER-L140-URRA230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800237",
+		"text": "POA-Montaje-INTER-A110-URRA230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800238",
+		"text": "POA-Montaje-INTER-L120-URRA230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800239",
+		"text": "POA-Montaje-INTER-L160-URRA230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800240",
+		"text": "Disponible",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800241",
+		"text": "Proyecto CHIVOR- Montaje Transformador",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800242",
+		"text": "Disponible",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800243",
+		"text": "POA-Monitoreo de bujes ATR2 Jamondino",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800244",
+		"text": "POA-Monitoreo de bujes ATR2 500 LVIR",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800245",
+		"text": "POA-Monitoreo de bujes ATR2 500 SMAR",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800246",
+		"text": "Disponible8",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800247",
+		"text": "Disponible9",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800248",
+		"text": "Disponible7",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800249",
+		"text": "Disponible1",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800250",
+		"text": "Disponible2",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800251",
+		"text": "Disponible3",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800252",
+		"text": "Disponible11",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800253",
+		"text": "Disponible12",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800254",
+		"text": "Disponible13",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800255",
+		"text": "POA-Monitoreo de bujes R130 230 Sogamoso",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800256",
+		"text": "POA-Monitoreo de bujes ATR1 500 Primaver",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800257",
+		"text": "POA-Monitoreo de bujes R190 500 Primaver",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800258",
+		"text": "POA-Monitoreo de bujes R180 500 Primaver",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800259",
+		"text": "POA-Monitoreo de bujes R160 500 Primaver",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800260",
+		"text": "Disponible5",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800261",
+		"text": "POA-Monitoreo de bujes ATR2 Ca?o Lim?n",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800262",
+		"text": "POA-Monitoreo de bujes ATR3 Ca?o Lim?n",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800263",
+		"text": "POA-Monitoreo de bujes ATR1 500 Oca?a",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800264",
+		"text": "POA-Monitoreo de bujes ATR1 230 Oca?a",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800265",
+		"text": "POA-Monitoreo de bujes R190 500 Oca?a",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800266",
+		"text": "POA-Monitoreo de bujes R180 500 Oca?a",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800267",
+		"text": "NEJE-POA-Monitoreo debujesATR230RepOca?a",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800268",
+		"text": "POA-Monitoreo de bujes ATR1 Banad?a",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800269",
+		"text": "POA-Monitoreo de bujes TRAFO1 Samor?",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800270",
+		"text": "POA-Monitoreo de bujes TRAFO1 Toledo",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800271",
+		"text": "POA-Montaje-Pararrayos-R22RN-CHIN500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800272",
+		"text": "POA-Montaje-Pararrayos-R12RN-CHIN500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800273",
+		"text": "Recimentar fundaciones URRA-URAB-T46-T47",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800274",
+		"text": "Recimentar fundaciones en T200",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800277",
+		"text": "Overhaul Autotrafos ATR3 230 SCAR",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800279",
+		"text": "POA-Montaje Reles-BL LVIR230-L260",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800280",
+		"text": "Overhaul interruptores 2015_GastosTaller",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800281",
+		"text": "POA-Monitoreo de bujes ATR1 Caricare",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800282",
+		"text": "POA-Desmontar rel? diferencial SMAR 22MC",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800283",
+		"text": "POA-Desmontar rel? diferencial SMAR 23MC",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800284",
+		"text": "Renovaci?n Rel? 87T ATR1 San Mateo",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800285",
+		"text": "POA-Montaje-INTER-L12-BANA034",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800286",
+		"text": "POA-Montaje-INTER-L14-BANA034",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800287",
+		"text": "POA-Montaje-INTER-T11-CLIM034",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800288",
+		"text": "POA-Montaje-INTER-T19-CLIM034",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800289",
+		"text": "Disponible",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800290",
+		"text": "Instalar descargadores GUAT-TASA",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800291",
+		"text": "Instalar descargadores BANA-SAMO",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800292",
+		"text": "Construir variante GUAT-PRIM-T277",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800293",
+		"text": "Construir variante OCAN-SMAT",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800294",
+		"text": "Recimentar fundaciones COMU-LCIR-T11",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800295",
+		"text": "Reponer cable guarda CERR-CHIN",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800296",
+		"text": "Reponer cable guarda CHIN-SABA",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800297",
+		"text": "Construir variante x inclinaci?n T 38*",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800298",
+		"text": "Recimentar Fundaciones Construcc Pilas",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800299",
+		"text": "Recimentar fundaciones BACA-PRIM-T295",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800300",
+		"text": "Instalar Descargadores CHIV-GUAV",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800301",
+		"text": "POA-Monitoreo de bujes ATR Bacat?-STATCO",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800302",
+		"text": "POA-Monitoreo de bujes ATR-NUEVO-Copey",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800303",
+		"text": "POA-Montaje Servicos Auxiliares 125-SBER",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800304",
+		"text": "POA-Montaje Medidores Calidad Energ-TOLE",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800305",
+		"text": "POA-Ovh Autotrafos ATR-2 +cambio LCC",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800306",
+		"text": "POA-Sistema Filtrado OLTC - OCAN230ATRR1",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800307",
+		"text": "POA-Sistema Filtrado OLTC - CARI034TRF-1",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800308",
+		"text": "POA-Montaje Servicos Auxiliares 125-SFEL",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800309",
+		"text": "POA-Montaje Servicos Auxiliares 125-TORC",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800310",
+		"text": "POA-Montaje Servicos Auxiliares 125-MEDE",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800311",
+		"text": "POA-Montaje Trafo 50MVA-REPUESTO ARAUCA",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800313",
+		"text": "POA-Montaje-INTER-L280-ESME230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800314",
+		"text": "POA-Montaje-INTER-L210-YUMB230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800315",
+		"text": "POA-Montaje-INTER-L170-JAGU230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800323",
+		"text": "POA-Montaje-INTER-R130-CERR500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800324",
+		"text": "POA-Montaje-INTER-R120-CHIN500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800325",
+		"text": "POA-Montaje-PLPTE-14BL-SBER230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800326",
+		"text": "POA-Montaje-PLPTE-L21BL-JAMO230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800327",
+		"text": "POA-Montaje-PLPTE-L16BL-SBER230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800328",
+		"text": "POA-Montaje-PLPTE-L19BL-JAMO230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800329",
+		"text": "POA-Montaje-INTER-R18BC-BACA500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800332",
+		"text": "POA-Montaje-PLPTE-L22BL-SABA500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800333",
+		"text": "POA-Montaje-PLPTE-L11BL-CHIN500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800334",
+		"text": "POA-Montaje-PLPTE-L13BL-CERR500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800335",
+		"text": "POA-Montaje-PLPTE-L23BL-CHIN500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800336",
+		"text": "POA-ATR1 150 MVA 230/115 Jamondino",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800337",
+		"text": "POA-Renovaci?n del SAS-SABA500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800338",
+		"text": "POA-Renovaci?n del SAS-LSIE230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800339",
+		"text": "POA-Montaje-PARAR-L190-LENE230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800340",
+		"text": "POA-Montaje-PARAR-L230-LMES230-FA",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800341",
+		"text": "POA-Montaje-PARAR-L230-LMES230-FB",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800342",
+		"text": "POA-Montaje-PARAR-L230-LMES230-FC",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800343",
+		"text": "POA-Renovaci?n Reloj Satelital-LPAL230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800344",
+		"text": "POA-Renovaci?n Celda 1-MCOMU-SCAR013",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800345",
+		"text": "POA-Renovaci?n Celda 2-MCOMU-SCAR013",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800346",
+		"text": "POA-Renovaci?n Celda 3-MCOMU-SCAR013",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800347",
+		"text": "POA-Renovaci?n Celda 4-MCOMU-SCAR013",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800348",
+		"text": "POA-Renovaci?n GPS-MCOMU-LENE230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800349",
+		"text": "POA-Montaje-Rele 21-ESQPR-L220-ASUR230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800351",
+		"text": "POA-Montaje-Rele 21-ESQPR-SABA220",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800352",
+		"text": "POA-Montaje-Rele 21-ESQPR-L230-LHER230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800353",
+		"text": "POA-Montaje-PC y Software IHM-CHIN500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800354",
+		"text": "Overhaul Autotrafos ATR2 500 SABA",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800356",
+		"text": "POA-Montaje-Rele 87B-ESQPR-DIFBA-CHIN500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800357",
+		"text": "POA-Montaje-Controlador-A17BT-IBAG230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800358",
+		"text": "POA-Montaje-Controlador-ATR-1-IBAG230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800359",
+		"text": "POA-Montaje-Controlador-B20BF-IBAG230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800360",
+		"text": "POA-Montaje-Controlador-L19BL-IBAG230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800361",
+		"text": "POA-Montaje-Controlador-L21BL-IBAG230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800362",
+		"text": "POA-Montaje-Controlador-L22BL-IBAG230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800363",
+		"text": "POA-Montaje-Controlador-SAUX1-IBAG230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800364",
+		"text": "POA-Montaje-Controlador-L15BL-PURN230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800365",
+		"text": "POA-Montaje-Controlador-SAUX1-PURN230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800366",
+		"text": "POA-Montaje-Controlador-L13BL-PURN230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800367",
+		"text": "POA-Montaje-Controlador-L17BL-PURN230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800368",
+		"text": "POA-Montaje-Controlador-L19BL-PURN230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800369",
+		"text": "POA-Montaje-Controlador-L21BL-PURN230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800370",
+		"text": "POA-Montaje-Controlador-L23BL-PURN230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800371",
+		"text": "POA-Montaje-Controlador-L22BL-PURN230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800372",
+		"text": "POA-Montaje-Controlador-L24BL-PURN230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800373",
+		"text": "Disponible",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800374",
+		"text": "POA-Montaje-INTER-A140-BANA230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800377",
+		"text": "001-Montaje-Rele 21-ESQPR-L22BL-LSIE230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800378",
+		"text": "POA-Montaje-Rele 21-ESQPR-L12BL-LSIE230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800379",
+		"text": "POA-Montaje-Rele 21-ESQPR-L13BL-LSIE230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800380",
+		"text": "POA-Montaje-Rele 21-ESQPR-L23BL-LSIE230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800382",
+		"text": "NEJE-POA-Montaje-Rele 21_PL1y2-L12BL-COM",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800383",
+		"text": "POA-Montaje-Rele 21_PL1y2-L13BL-COMU230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800384",
+		"text": "POA-Montaje-Rele 21_PL1-L21BL-COMU230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800385",
+		"text": "POA-Montaje-Rele 21_PL1y2-L22BL-COMU230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800386",
+		"text": "POA-Montaje-Rele 21_PL1y2-L23BL-COMU230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800387",
+		"text": "POA-Montaje Reles-BL ESME230ATR-1",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800388",
+		"text": "POA-Montaje Reles-BL ESME230ATR-2",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800390",
+		"text": "POA-Montaje-Registrador 1-CHIN500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800391",
+		"text": "POA-Montaje-Registrador 2-CHIN500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800392",
+		"text": "POA-Montaje-Registrador 3-CHIN500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800393",
+		"text": "POA-Montaje-Registrador 4-CHIN500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800396",
+		"text": "POA-Montaje-PLPTE-L23BL-COMU230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800397",
+		"text": "POA-Montaje-Rele 87-ESQPR-R22MC-LVIR034",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800398",
+		"text": "POA-Montaje-Rele 87-ESQPR-R23MC-LVIR034",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800399",
+		"text": "POA-Montaje-Rele 87-ESQPR-R23MC-LVIR034",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800400",
+		"text": "POA-Montaje-Rele 87-ESQPR-R42MC-CHIN034",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800401",
+		"text": "Adecuaci?n Autotrafo 230/115 kV Betania",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800402",
+		"text": "POA-Montaje Rel? 21 IBAG230L21BL",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800403",
+		"text": "Adecuaci?n Autotrafo 230/115 kV",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800404",
+		"text": "POA-Montaje-Inversores-BANA230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800405",
+		"text": "POA-Montaje-Inversores-CLIM230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800407",
+		"text": "POA - Rel? 25 verific sincronismo ESME",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800408",
+		"text": "POA - Rel? 25 verific sincronismo ESME",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800409",
+		"text": "Adecuaci?n Autotrafo 230/115 Reserva",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800410",
+		"text": "POA-Montaje-INTER-L140-ESME230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800411",
+		"text": "POA-Montaje-INTER-A170-IBAG230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800412",
+		"text": "POA-Montaje-INTER-L14BL-PRIM230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800413",
+		"text": "POA-Montaje-INTER-U120-CHIV230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800414",
+		"text": "POA-Montaje-INTER-U140-CHIV230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800415",
+		"text": "POA-Montaje-INTER-U160-CHIV230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800416",
+		"text": "POA-Montaje-INTER-L25BL-PRIM230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800417",
+		"text": "POA-Montaje-INTER-M05ME-PRIM230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800420",
+		"text": "POA-Montaje-INTER-M010-COMU230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800421",
+		"text": "POA-Montaje-INTER-L210-COMU230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800422",
+		"text": "POA-Montaje-INTER-L23BL-PRIM230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800423",
+		"text": "POA-Montaje-INTER-L24BL-PRIM230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800424",
+		"text": "POA-Montaje-INTER-L16BL-PRIM230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800425",
+		"text": "POA-Montaje-INTER-L230-LHER230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800426",
+		"text": "POA-Montaje-INTER-M200-LHER230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800428",
+		"text": "Overhaul  Reactor R21MC-SABA500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800429",
+		"text": "POA-Servicios Auxiliares-CHIN034",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800430",
+		"text": "POA-Montaje-INTER-U240-CHIV230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800431",
+		"text": "POA-Montaje-INTER-U260-CHIV230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800432",
+		"text": "Disponible",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800433",
+		"text": "Disponible",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800434",
+		"text": "POA-Montaje-INTER-L210-SAMO230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800435",
+		"text": "POA-Montaje-INTER-T200-SAMO230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800436",
+		"text": "POA-Monitoreo de bujes ATR2 Ca?o Lim?n",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800437",
+		"text": "POA-Monitoreo de bujes ATR3 Ca?o Lim?n",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800438",
+		"text": "POA-Servicios Auxiliares-SOCH230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800439",
+		"text": "POA-Servicios Auxiliares-ESME230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800440",
+		"text": "POA-Servicios Auxiliares-LENE230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800442",
+		"text": "POA-Servicios Auxiliares-YUMB230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800443",
+		"text": "POA-Servicios Auxiliares-ASUR230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800444",
+		"text": "POA-Servicios Auxiliares-SCAR500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800445",
+		"text": "POA-Servicios Auxiliares-URRA230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800446",
+		"text": "Overhaul interruptores 2016_GastosTaller",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800447",
+		"text": "POA-Montaje Equipos SCAR230ATR-1 y 2",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800448",
+		"text": "POA-Renovaci?n servicios Auxiliares ASUR",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800449",
+		"text": "POA-Renovaci?n servicios Auxiliares SMAR",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800450",
+		"text": "POA-Montaje Reles-BT SMAR230-ATR2",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800451",
+		"text": "POA-Montaje Reles-BT SMAR230-M090",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800452",
+		"text": "POA-Montaje Reles-BL SMAR500-LVIR1",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800453",
+		"text": "POA-Montaje Reles-BL SMAR500-M010",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800454",
+		"text": "POA-Montaje Reles-BL SMAR230-ATR1",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800455",
+		"text": "POA-Montaje-INTER-L240-LMES230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800456",
+		"text": "POA-Montaje Reles-BL SMAR230-M020",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800457",
+		"text": "POA-Montaje Reles-BL SMAR230-M030",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800458",
+		"text": "POA-Montaje Reles-BC SMAR230-BCP1234",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800459",
+		"text": "POA-Montaje Reles-BL SMAR230-JUANCHITO1",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800460",
+		"text": "POA-Montaje-INTER-M06ME-PRIM230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800461",
+		"text": "Construir variante GUAT-SOCH-T200",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800462",
+		"text": "Construir variante GUAT-SOCH-T256",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800463",
+		"text": "Construir variante BANA-SAMO-T286 y T287",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800464",
+		"text": "Construir variante SAMO-TOLD-T167",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800465",
+		"text": "Instalar descargadores LCIR-COMU",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800466",
+		"text": "POA-Servicios Auxiliares-URRA",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800467",
+		"text": "POA-Servicios Auxiliares-BACA500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800468",
+		"text": "POA-Montaje PT Barra 1 -TORC230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800469",
+		"text": "POA-Montaje PT Barra 2 -TORC230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800470",
+		"text": "POA-Montaje PT Barra 3 -TORC230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800471",
+		"text": "POA-Montaje TPS Ibagu?-LMES1",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800472",
+		"text": "POA-Montaje TPS Ibagu?-LMES2",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800473",
+		"text": "POA-Montaje TPS La Mesa -IBG1",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800474",
+		"text": "Cambio de teleproteccion",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800478",
+		"text": "POA-Montaje-Rele 21-L23BL-CHIN500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800479",
+		"text": "POA-Montaje-Rele 21-L22BL-SABA500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800480",
+		"text": "POA-Montaje-Rele 87-DIFBA-SABA500",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800483",
+		"text": "POA-Montaje-Rele MCTI-A29BT-SMAR230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800484",
+		"text": "POA-Montaje-Rele MCTI-M09ME-SMAR230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800485",
+		"text": "POA-Montaje-Rele MCTI-L14BL-SMAR230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800486",
+		"text": "POA-Montaje-Rele MCTI-M04ME-SMAR230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800487",
+		"text": "POA-Montaje-Rele MCTI-L24BL-SMAR230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800488",
+		"text": "POA-Montaje-Rele MCTI-CP1MC-SMAR230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800489",
+		"text": "POA-Montaje-Rele MCTI-CP2MC-SMAR230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800490",
+		"text": "POA-Montaje-Rele MCTI-CP3MC-SMAR230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800491",
+		"text": "POA-Montaje-Rele 87T-TRF-1-TOLE230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800492",
+		"text": "POA-Montaje-Rele 87T-TRF-1-SAMO230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800493",
+		"text": "POA-Montaje-Rele 87T-TRF-1-BANA230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800494",
+		"text": "POA-Montaje-Rele 87T-TRF-1-CLIM230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800495",
+		"text": "POA-Montaje-Rele 87T-TRF-2-CLIM230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800496",
+		"text": "POA-Montaje-Rele 87T-TRF-1-LREF230",
+		"receptor": "Orden Mantenimiento"
+	}, {
+		"key": "35800499",
+		"text": "Reponer cable OPGW Sabana-Bolivar",
+		"receptor": "Orden Mantenimiento"
+	}]
+}

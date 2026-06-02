@@ -1,0 +1,2 @@
+function initModel(){var a="/sap/opu/odata/sap/ZGW_TS_PLANPRESUP_SOCIEDADES_SRV/";var e=new sap.ui.model.odata.ODataModel(a,true);sap.ui.getCore().setModel(e)}
+//# sourceMappingURL=serviceBinding-dbg.js.map

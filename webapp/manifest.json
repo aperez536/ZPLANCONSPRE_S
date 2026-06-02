@@ -1,0 +1,168 @@
+{
+    "_version": "1.12.0",
+    "sap.app": {
+        "id": "soc.ZPLANCONSPRE_SOCIEDADES",
+        "type": "application",
+        "i18n": "i18n/i18n.properties",
+        "applicationVersion": {
+            "version": "1.0.0"
+        },
+        "title": "{{appTitle}}",
+        "description": "{{appDescription}}",
+        "sourceTemplate": {
+            "id": "servicecatalog.connectivityComponentForManifest",
+            "version": "0.0.0",
+            "toolsId": "52e41cc0-63a6-42ce-a53a-7a76b959a564"
+        },
+        "dataSources": {
+            "ZGW_TS_PLANPRESUP_SOCIEDADES_SRV": {
+                "uri": "/sap/opu/odata/sap/ZGW_TS_PLANPRESUP_SOCIEDADES_SRV/",
+                "type": "OData",
+                "settings": {
+                    "localUri": "localService/metadata.xml"
+                }
+            }
+        }
+    },
+    "sap.ui": {
+        "fullWidth": true,
+        "technology": "UI5",
+        "icons": {
+            "icon": "",
+            "favIcon": "",
+            "phone": "",
+            "phone@2": "",
+            "tablet": "",
+            "tablet@2": ""
+        },
+        "deviceTypes": {
+            "desktop": true,
+            "tablet": true,
+            "phone": true
+        }
+    },
+    "sap.ui5": {
+        "flexEnabled": false,
+        "rootView": {
+            "viewName": "soc.ZPLANCONSPRE_SOCIEDADES.view.View1",
+            "type": "XML",
+            "async": true,
+            "id": "View1"
+        },
+        "dependencies": {
+            "minUI5Version": "1.65.6",
+            "libs": {
+                "sap.m": {},
+                "sap.ui.core": {},
+                "sap.ui.layout": {},
+                "sap.ui.table": {}
+            }
+        },
+        "contentDensities": {
+            "compact": true,
+            "cozy": true
+        },
+        "models": {
+            "i18n": {
+                "type": "sap.ui.model.resource.ResourceModel",
+                "settings": {
+                    "bundleName": "soc.ZPLANCONSPRE_SOCIEDADES.i18n.i18n"
+                }
+            },
+            "CecoModel": {
+                "type": "sap.ui.model.json.JSONModel",
+                "settings": {},
+                "uri": "model/CeCo.json",
+                "preload": true
+            },
+            "ActividadModel": {
+                "type": "sap.ui.model.json.JSONModel",
+                "settings": {},
+                "uri": "model/Actividades.json",
+                "preload": true
+            },
+            "DestinoModel": {
+                "type": "sap.ui.model.json.JSONModel",
+                "settings": {},
+                "uri": "model/Destino.json",
+                "preload": true
+            },
+            "TotalesModel": {
+                "type": "sap.ui.model.json.JSONModel",
+                "settings": {},
+                "uri": "model/Totales.json",
+                "preload": true
+            },
+            "": {
+                "type": "sap.ui.model.odata.v2.ODataModel",
+                "settings": {
+                    "defaultOperationMode": "Server",
+                    "defaultBindingMode": "OneWay",
+                    "defaultCountMode": "Request"
+                },
+                "dataSource": "ZGW_TS_PLANPRESUP_SOCIEDADES_SRV",
+                "preload": true
+            }
+        },
+        "resources": {
+            "css": [
+                {
+                    "uri": "css/style.css"
+                }
+            ],
+            "js": [
+                {
+                    "uri": "lib/xlsx.js"
+                },
+                {
+                    "uri": "lib/jszip.js"
+                }
+            ]
+        },
+        "routing": {
+            "config": {
+                "routerClass": "sap.m.routing.Router",
+                "viewType": "XML",
+                "async": true,
+                "viewPath": "soc.ZPLANCONSPRE_SOCIEDADES.view",
+                "controlAggregation": "pages",
+                "controlId": "app",
+                "clearControlAggregation": false
+            },
+            "routes": [
+                {
+                    "name": "RouteView1",
+                    "pattern": "RouteView1",
+                    "target": [
+                        "TargetView1"
+                    ]
+                },
+                {
+                    "name": "RoutePlantilla",
+                    "pattern": "",
+                    "target": [
+                        "TargetPlantilla"
+                    ]
+                }
+            ],
+            "targets": {
+                "TargetView1": {
+                    "viewType": "XML",
+                    "transition": "slide",
+                    "clearControlAggregation": false,
+                    "viewId": "View1",
+                    "viewName": "View1"
+                },
+                "TargetPlantilla": {
+                    "viewType": "XML",
+                    "viewName": "Plantilla"
+                }
+            }
+        },
+        "flexBundle": false
+    },
+    "sap.platform.abap": {
+        "uri": "/sap/bc/ui5_ui5/sap/zplanconspre_s",
+        "_version": "1.1.0"
+    }
+}
