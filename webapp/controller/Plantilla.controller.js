@@ -272,7 +272,7 @@ sap.ui.define([
 				this.sYear = sYear;
 				this.sIper = sIper;
 				this.sFper = sFper;
-				//var r = await this._getReal(sCeco, sYear, sIper, sFper);
+				var r = await this._getReal(sCeco, sYear, sIper, sFper);
 				
 				/*if ( r.results.length == 0){
 					MessageBox.error("No se encontro  Ceco");
@@ -280,7 +280,7 @@ sap.ui.define([
 					return;
 				}
                     */
-				//oViewModel.setProperty("/real", r.results);
+				oViewModel.setProperty("/real", r.results);
 				var oView = this.getView(),
 					oTable = oView.byId("tableReal");
 				//oTable.setFixedRowCount(r.length);
