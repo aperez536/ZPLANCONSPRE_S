@@ -997,31 +997,11 @@ onSaveData: function () {
 		},
 	intervaloSecundarioEnIntervaloPrimario:	function(fechaIniPrimario, fechaFinPrimario, fechaIniSecundario, fechaFinSecundario) {
 	    // Convertir las fechas de string a objetos Date para el intervalo primario
-	    let dateIniPrimario = new Date(
-	        parseInt(fechaIniPrimario.substring(0, 4)),  // A�o
-	        parseInt(fechaIniPrimario.substring(4, 6)) - 1,  // Mes (0-11)
-	        parseInt(fechaIniPrimario.substring(6, 8))   // D�a
-	    );
-	
-	    let dateFinPrimario = new Date(
-	        parseInt(fechaFinPrimario.substring(0, 4)),  // A�o
-	        parseInt(fechaFinPrimario.substring(4, 6)) - 1,  // Mes (0-11)
-	        parseInt(fechaFinPrimario.substring(6, 8))   // D�a
-	    );
-	
-	    // Convertir las fechas de string a objetos Date para el intervalo secundario
-	    let dateIniSecundario = new Date(
-	        parseInt(fechaIniSecundario.substring(0, 4)),  // A�o
-	        parseInt(fechaIniSecundario.substring(4, 6)) - 1,  // Mes (0-11)
-	        parseInt(fechaIniSecundario.substring(6, 8))   // D�a
-	    );
-	
-	    let dateFinSecundario = new Date(
-	        parseInt(fechaFinSecundario.substring(0, 4)),  // A�o
-	        parseInt(fechaFinSecundario.substring(4, 6)) - 1,  // Mes (0-11)
-	        parseInt(fechaFinSecundario.substring(6, 8))   // D�a
-	    );
-
+	 
+		let dateIniPrimario = parseInt(fechaIniPrimario.substring(0, 4));
+		let dateFinPrimario = parseInt(fechaFinPrimario.substring(0, 4));
+	    let dateIniSecundario = parseInt(fechaIniSecundario.substring(0, 4));
+		let dateFinSecundario = parseInt(fechaFinSecundario.substring(0, 4));
     // Verificar si el intervalo secundario est� dentro del intervalo primario
     return dateIniSecundario >= dateIniPrimario && dateFinSecundario <= dateFinPrimario;
 	},
@@ -1045,8 +1025,7 @@ onSaveData: function () {
 					var arrFechaFin = this.getView().byId("dpFper").getValue().split(".");
 					var fechaIni =  arrFechaIni[2] +  arrFechaIni[1] + arrFechaIni[0];
 					var fechaFin =  arrFechaFin[2] + arrFechaFin[1] + arrFechaFin[0];
-					//var validacion = that.intervaloSecundarioEnIntervaloPrimario(oData.GetParametrosIniciales.FechaInicio, oData.GetParametrosIniciales.FechaFin, fechaIni, fechaFin);
-					var validacion = oData.GetParametrosIniciales.PermitidoFechas;
+					var validacion = that.intervaloSecundarioEnIntervaloPrimario(oData.GetParametrosIniciales.FechaInicio, oData.GetParametrosIniciales.FechaFin, fechaIni, fechaFin);
                     if (validacion == false)
 					{
 						that.showGeneralError({
@@ -1160,6 +1139,7 @@ onSaveData: function () {
 						resolve(oData);
 					},
 					error: function (oError) {
+						that.errorbackend(oError);
 						reject(oError);
 					}
 				});
@@ -1182,6 +1162,7 @@ onSaveData: function () {
 						resolve(oData);
 					},
 					error: function (oError) {
+						that.errorbackend(oError);
 						reject(oError);
 					}
 				});
@@ -1272,8 +1253,12 @@ onSaveData: function () {
 			}
 			return oObject;
 		},
-
-	
+		errorbackend: function (oError) {
+			var oViewModel = this.getModel("viewModel");
+			oViewModel.setProperty("/busy", false);
+			var mensaje = JSON.parse(oError.responseText).error.message.value;
+			sap.m.MessageBox.error(mensaje || "Ocurrió un error al procesar la solicitud. Por favor, intente nuevamente o contacte al administrador del sistema.");
+		},
 
 		_checkDatosPlantilla: function () {
 			var oViewModel = this.getModel("viewModel");
